@@ -1,0 +1,713 @@
+Max Scherzer, Wsh SP			228.1	165	75	56	284	1	26	1	0	0	0	20	7	0	0
+Madison Bumgarner, SF SP		226.2	178	69	54	251	4	25	4	1	0	0	15	9	0	0
+Justin Verlander, Det SP		227.2	171	77	57	254	3	27	2	0	0	0	16	9	0	0
+Johnny Cueto, SF SP			219.2	195	68	45	198	6	22	5	2	0	0	18	5	0	0
+Rick Porcello, Bos SP			223	193	78	32	189	0	26	3	0	0	0	22	4	0	0
+Chris Sale, CWS SP			226.2	190	84	45	233	0	23	6	1	0	0	17	10	0	0
+Jon Lester, ChC SP			202.2	154	55	52	197	1	26	2	0	0	0	19	5	0	0
+Corey Kluber, Cle SP			215	170	75	57	227	1	22	3	2	0	0	18	9	0	0
+Clayton Kershaw, LAD SP			149	97	28	11	172	0	17	3	3	0	0	12	4	0	0
+Kyle Hendricks, ChC SP			190	142	45	44	170	3	20	2	1	0	0	16	8	0	0
+Jake Arrieta, ChC SP			197.1	138	68	76	190	0	17	1	1	1	0	18	8	0	0
+David Price, Bos SP			230	227	102	50	228	0	22	2	0	0	0	17	9	0	0
+Noah Syndergaard, NYM SP		183.2	168	53	43	218	2	20	0	0	0	0	14	9	0	0
+Masahiro Tanaka, NYY SP  DTD		199.2	179	68	36	165	0	19	0	0	0	0	14	4	0	0
+J.A. Happ, Tor SP			195	168	69	60	163	0	21	0	0	0	0	20	4	0	0
+Kenley Jansen, LAD RP			68.2	35	14	11	104	0	0	0	0	0	0	3	2	47	6
+Tanner Roark, Wsh RP, SP		210	173	66	73	172	0	22	0	0	0	0	16	10	0	0
+Zach Britton, Bal RP			67	38	4	18	74	0	0	0	0	0	0	2	1	47	0
+Aaron Sanchez, Tor RP, SP		192	161	64	63	161	0	23	0	0	0	0	15	2	0	0
+Cole Hamels, Tex SP			200.2	185	74	77	200	3	22	0	0	0	0	15	5	0	0
+Danny Duffy, KC SP, RP			179.2	163	70	42	188	5	16	1	0	0	0	12	3	0	0
+Carlos Martinez, StL SP			195.1	169	66	70	174	0	20	0	0	0	0	16	9	0	0
+Jose Quintana, CWS SP			208	192	74	50	181	2	23	0	0	0	0	13	12	0	0
+John Lackey, ChC SP			188.1	146	70	53	180	0	20	0	0	0	0	11	8	0	0
+Jeurys Familia, NYM RP			77.2	63	22	31	84	0	0	0	0	0	0	3	4	51	5
+Mark Melancon, Wsh RP			71.1	52	13	12	65	0	0	0	0	0	0	2	2	47	4
+Stephen Strasburg, Wsh SP  DTD		147.2	119	59	44	183	0	15	0	0	0	0	15	4	0	0
+Julio Teheran, Atl SP			188	157	67	41	167	3	16	1	1	0	0	7	10	0	0
+Kenta Maeda, LAD SP			175.2	150	68	50	179	0	14	0	0	0	0	16	11	0	0
+Aroldis Chapman, ChC RP			58	32	10	18	90	2	0	0	0	0	0	4	1	36	3
+Dan Straily, Cin SP			191.1	154	80	73	162	1	20	0	0	0	0	14	8	0	0
+Jake Odorizzi, TB SP			187.2	170	77	54	166	3	17	0	0	0	0	10	6	0	0
+Ian Kennedy, KC SP			195.2	173	80	66	184	1	15	0	0	0	0	11	11	0	0
+Andrew Miller, Cle RP			74.1	42	12	9	123	0	0	0	0	0	0	10	1	12	2
+Jeff Samardzija, SF SP			203.1	190	86	54	167	0	17	1	0	0	0	12	11	0	0
+Drew Pomeranz, Bos RP, SP		170.2	137	63	65	186	4	16	0	0	0	0	11	12	0	0
+Jeremy Hellickson, Phi SP		189	173	78	45	154	0	17	1	1	0	0	12	10	0	0
+Bartolo Colon, NYM SP			191.2	200	73	32	128	5	19	0	0	0	0	15	8	0	0
+Marco Estrada, Tor SP			176	132	68	65	165	0	18	0	0	0	0	9	9	0	0
+Chris Archer, TB SP			201.1	183	90	67	233	1	19	0	0	0	0	9	19	0	0
+Roberto Osuna, Tor RP			74	55	22	14	82	0	0	0	0	0	0	4	3	36	6
+Jerad Eickhoff, Phi SP			197.1	187	80	42	167	1	20	0	0	0	0	11	14	0	0
+Michael Fulmer, Det SP			159	136	54	42	132	0	15	1	1	0	0	11	7	0	0
+Matt Moore, SF SP			198.1	184	90	72	178	6	18	0	0	0	0	13	12	0	0
+Steven Wright, Bos SP  DTD		156.2	138	58	57	127	1	15	4	1	0	0	13	6	0	0
+Chris Tillman, Bal SP			172	155	72	66	140	0	16	0	0	0	0	16	6	0	0
+Carlos Carrasco, Cle SP  DTD		146.1	134	54	34	150	1	14	1	1	0	0	11	8	0	0
+Rich Hill, LAD SP			110.1	77	26	33	129	4	13	0	0	0	0	12	5	0	0
+Trevor Bauer, Cle SP, RP		190	179	90	70	168	1	16	1	0	0	0	12	8	0	0
+Seung Hwan Oh, StL RP			79.2	55	17	18	103	0	0	0	0	0	0	6	3	19	4
+Ervin Santana, Min SP			181.1	168	68	53	149	0	17	2	1	0	0	7	11	0	0
+Jason Hammel, ChC SP  DTD		166.2	148	71	53	144	3	16	0	0	0	0	15	10	0	0
+Cody Allen, Cle RP			68	41	19	27	87	0	0	0	0	0	0	3	5	32	3
+Alex Colome, TB RP, SP			56.2	43	12	15	71	0	0	0	0	0	0	2	4	37	3
+Kevin Gausman, Bal SP, RP		179.2	183	72	47	174	0	18	0	0	0	0	9	12	0	0
+Sam Dyson, Tex RP			70.1	63	19	23	55	0	0	0	0	0	0	3	2	38	5
+Francisco Rodriguez, Det RP		58.1	45	21	21	52	0	0	0	0	0	0	3	4	44	5
+Hisashi Iwakuma, Sea SP			199	218	91	46	147	1	19	0	0	0	0	16	12	0	0
+Jon Gray, Col SP			168	153	86	59	185	3	16	1	1	0	0	10	10	0	0
+Jacob deGrom, NYM SP			148	142	50	36	143	1	16	1	1	0	0	7	8	0	0
+A.J. Ramos, Mia RP			64	52	20	35	73	0	0	0	0	0	0	1	4	40	3
+Marcus Stroman, Tor SP			204	209	99	54	166	1	18	0	0	0	0	9	10	0	0
+Collin McHugh, Hou SP			184.2	206	89	54	177	0	16	1	0	0	0	13	10	0	0
+Adam Wainwright, StL SP			198.2	220	102	59	161	0	18	1	1	0	0	13	9	0	0
+David Robertson, CWS RP  DTD		62.1	53	24	32	75	0	0	0	0	0	0	5	3	37	7
+Danny Salazar, Cle SP			137.1	121	59	63	161	2	10	0	0	0	0	11	6	0	0
+Ivan Nova, Pit SP, RP			162	175	75	28	127	0	10	3	0	0	0	12	8	1	0
+Zach Davies, Mil SP			163.1	166	72	38	135	0	15	0	0	0	0	11	7	0	0
+Zack Greinke, Ari SP  DTD		158.2	161	77	41	134	1	16	1	1	0	0	13	7	0	0
+Gio Gonzalez, Wsh SP			177.1	179	90	59	171	1	16	0	0	0	0	11	11	0	0
+Ricky Nolasco, LAA SP			197.2	202	97	44	144	8	16	1	1	0	0	8	14	0	0
+Chris Devenski, Hou SP, RP		108.1	79	26	20	104	2	2	0	0	0	0	4	4	1	0
+CC Sabathia, NYY SP  DTD		179.2	172	78	65	152	0	16	0	0	0	0	9	12	0	0
+Josh Tomlin, Cle SP			174	187	85	20	118	0	17	0	0	0	0	13	9	0	0
+Junior Guerra, Mil RP, SP		121.2	94	38	43	100	0	12	0	0	0	0	9	3	0	0
+Michael Pineda, NYY SP			175.2	184	94	53	207	2	11	0	0	0	0	6	12	0	0
+Carlos Rodon, CWS SP			165	176	74	54	168	1	17	0	0	0	0	9	10	0	0
+Matt Shoemaker, LAA SP  DTD		160	166	69	30	143	1	16	1	1	0	0	9	13	0	0
+Brandon Finnegan, Cin RP, SP		172	150	76	84	145	3	15	1	0	0	0	10	11	0	0
+Hector Santiago, Min SP			182	169	95	79	144	8	13	0	0	0	0	13	10	0	0
+Chad Bettis, Col SP  DTD		186	204	99	59	138	0	17	1	1	0	0	14	8	0	0
+Craig Kimbrel, Bos RP			53	28	20	30	83	0	0	0	0	0	0	2	6	31	2
+Steven Matz, NYM SP  DTD		132.1	129	50	31	129	2	14	0	0	0	0	9	8	0	0
+Vince Velasquez, Phi RP, SP		131	129	60	45	152	0	9	1	1	0	0	8	6	0	0
+Anthony DeSclafani, Cin SP		123.1	120	45	30	105	4	14	1	1	0	0	9	5	0	0
+Felix Hernandez, Sea SP			153.1	138	65	65	122	3	13	0	0	0	0	11	8	0	0
+Kendall Graveman, Oak SP		186	196	85	47	108	2	16	2	1	0	0	10	11	0	0
+Mike Fiers, Hou SP			168.2	187	84	42	134	2	14	0	0	0	0	11	8	0	0
+Robbie Ray, Ari SP			174.1	185	95	71	218	0	10	0	0	0	0	8	15	0	0
+Steve Cishek, Sea RP  DTD		64	44	20	21	76	0	0	0	0	0	0	4	6	25	7
+Dallas Keuchel, Hou SP  DTD		168	168	85	48	144	0	16	1	1	0	0	9	12	0	0
+Drew Smyly, TB SP			175.1	174	95	49	167	1	13	0	0	0	0	7	12	0	0
+Yordano Ventura, KC SP			186	190	92	78	144	2	16	2	0	0	0	11	12	0	0
+Yu Darvish, Tex SP			100.1	81	38	31	132	0	11	0	0	0	0	7	5	0	0
+Sean Manaea, Oak SP			144.2	135	62	37	124	3	12	0	0	0	0	7	9	0	0
+Tyler Chatwood, Col SP			158	147	68	70	117	0	14	0	0	0	0	12	9	0	0
+Tyler Thornburg, Mil RP			67	38	16	25	90	0	0	0	0	0	0	8	5	13	8
+Jeremy Jeffress, Tex RP			58	55	15	18	42	0	0	0	0	0	0	3	2	27	1
+Jaime Garcia, StL SP			171.2	179	89	57	150	1	10	1	1	0	0	10	13	0	0
+Dellin Betances, NYY RP			73	54	25	28	126	0	0	0	0	0	0	3	6	12	5
+Scott Kazmir, LAD SP  DTD		136.1	133	69	52	134	1	9	0	0	0	0	10	6	0	0
+Wade Davis, KC RP			43.1	33	9	16	47	0	0	0	0	0	0	2	1	27	3
+Fernando Rodney, Mia RP			65.1	54	25	37	74	4	0	0	0	0	0	2	4	25	3
+David Phelps, Mia SP, RP		86.2	61	22	38	114	0	1	0	0	0	0	7	6	4	6
+Santiago Casilla, SF RP			58	50	23	19	65	0	0	0	0	0	0	2	5	31	9
+Jeanmar Gomez, Phi RP			68.2	78	37	22	47	0	0	0	0	0	0	3	5	37	6
+Brad Brach, Bal RP  DTD			79	57	18	25	92	0	0	0	0	0	0	10	4	2	5
+Adam Conley, Mia SP			133.1	125	57	62	124	1	9	0	0	0	0	8	6	0	0
+Ryan Madson, Oak RP			64.2	63	26	20	49	0	0	0	0	0	0	6	7	30	7
+Tom Koehler, Mia SP			176.2	176	85	83	147	1	16	0	0	0	0	9	13	0	0
+Matt Andriese, TB RP, SP		127.2	131	62	25	109	0	6	1	1	0	0	8	8	1	0
+Mike Leake, StL SP			176.2	203	92	30	125	3	16	0	0	0	0	9	12	0	0
+Mike Foltynewicz, Atl SP		123.1	125	59	35	111	2	9	0	0	0	0	9	5	0	0
+Taijuan Walker, Sea SP  DTD		134.1	129	63	37	119	0	9	1	1	0	0	8	11	0	0
+Francisco Liriano, Tor SP		163	157	85	85	168	2	13	0	0	0	0	8	13	0	0
+Juan Nicasio, Pit RP, SP		118	117	59	45	138	1	4	0	0	0	0	10	7	0	2
+Addison Reed, NYM RP			77.2	60	17	13	91	0	0	0	0	0	0	4	2	1	4
+Kelvin Herrera, KC RP			72	57	22	12	86	0	0	0	0	0	0	2	6	12	3
+Martin Perez, Tex SP			198.2	205	97	76	103	0	19	0	0	0	0	10	11	0	0
+Joe Blanton, LAD RP			80	55	22	26	80	0	0	0	0	0	0	7	2	0	1
+James Paxton, Sea SP			121	134	51	24	117	0	10	0	0	0	0	6	7	0	0
+R.A. Dickey, Tor SP			169.2	169	84	63	126	4	13	0	0	0	0	10	15	0	0
+Mike Montgomery, ChC SP, RP		100	79	28	38	92	0	2	0	0	0	0	4	5	0	0
+Raisel Iglesias, Cin SP, RP		78.1	63	22	26	83	0	2	0	0	0	0	3	2	6	2
+Jim Johnson, Atl RP			64.2	57	22	20	68	1	0	0	0	0	0	2	6	20	3
+Brad Ziegler, Bos RP			68	67	17	26	58	0	0	0	0	0	0	4	7	22	6
+Edwin Diaz, Sea SP, RP			51.2	45	16	15	88	0	0	0	0	0	0	0	4	18	3
+Brad Hand, SD RP, SP			89.1	63	29	36	111	1	0	0	0	0	0	4	4	1	6
+Jameson Taillon, Pit SP			104	99	39	17	85	2	12	0	0	0	0	5	4	0	0
+Chase Anderson, Mil SP			151.2	155	74	53	120	1	6	0	0	0	0	9	11	0	0
+Doug Fister, Hou SP, RP			180.1	195	93	62	115	0	16	0	0	0	0	12	13	0	0
+Will Harris, Hou RP			64	52	16	15	69	0	0	0	0	0	0	1	2	12	3
+Miguel Gonzalez, CWS SP			135	132	56	35	95	0	15	0	0	0	0	5	8	0	0
+Hector Neris, Phi RP			80.1	59	23	30	102	0	0	0	0	0	0	4	4	2	4
+Colby Lewis, Tex SP			116.1	103	48	28	73	0	13	1	0	0	0	6	5	0	0
+Luke Gregerson, Hou RP			57.2	38	21	18	67	0	0	0	0	0	0	4	3	15	6
+Dylan Bundy, Bal SP, RP			109.2	109	49	42	104	0	3	0	0	0	0	10	6	0	0
+Dan Otero, Cle RP			70.2	54	12	10	57	0	0	0	0	0	0	5	1	1	1
+Tyler Anderson, Col SP  DTD		114.1	119	45	28	99	3	12	0	0	0	0	5	6	0	0
+Shawn Kelley, Wsh RP			58	41	17	11	80	0	0	0	0	0	0	3	2	7	2
+Joe Ross, Wsh SP			105	108	40	29	93	0	9	0	0	0	0	7	5	0	0
+Mychal Givens, Bal RP			74.2	59	26	36	96	0	0	0	0	0	0	8	2	0	1
+Wade Miley, Bal SP			166	187	99	49	137	8	12	1	1	0	0	9	13	0	0
+Ken Giles, Hou RP			65.2	60	30	25	102	0	0	0	0	0	0	2	5	15	5
+Kyle Barraclough, Mia RP		72.2	45	23	44	113	0	0	0	0	0	0	6	3	0	4
+Ryan Dull, Oak RP			74.1	50	20	15	73	0	0	0	0	0	0	5	5	3	3
+Hector Rondon, ChC RP			51	42	20	8	58	1	0	0	0	0	0	2	3	18	5
+Nate Jones, CWS RP			70.2	48	18	15	80	1	0	0	0	0	0	5	3	3	9
+Jered Weaver, LAA SP  DTD		178	209	100	51	103	2	13	1	1	0	0	12	12	0	0
+Tony Watson, Pit RP			67.2	52	23	20	58	0	0	0	0	0	0	2	5	15	5
+Jimmy Nelson, Mil SP			179.1	186	92	86	140	5	13	0	0	0	0	8	16	0	0
+Jhoulys Chacin, LAA SP, RP		144	153	77	55	119	2	7	1	0	0	0	6	8	0	0
+Archie Bradley, Ari SP			141.2	154	79	67	143	0	11	0	0	0	0	8	9	0	0
+Edinson Volquez, KC SP			189.1	217	113	76	139	0	14	0	0	0	0	10	11	0	0
+Nathan Eovaldi, NYY SP  DTD		124.2	123	66	40	97	2	8	0	0	0	0	9	8	0	0
+A.J. Griffin, Tex SP			119	116	67	46	107	0	6	0	0	0	0	7	4	0	0
+Carlos Torres, Mil RP			82.1	65	25	30	78	1	0	0	0	0	0	3	3	2	3
+Ryan Buchter, SD RP			63	34	20	31	78	3	0	0	0	0	0	3	0	1	1
+Pedro Baez, LAD RP			74	52	25	22	83	0	0	0	0	0	0	3	2	0	2
+Matt Wisler, Atl SP			156.2	159	87	49	115	0	15	0	0	0	0	7	13	1	0
+Aaron Nola, Phi SP			111	116	59	29	121	1	11	0	0	0	0	6	9	0	0
+Wei-Yin Chen, Mia SP			123.1	134	68	24	100	0	9	0	0	0	0	5	5	0	0
+Matt Bush, Tex RP			61.2	44	17	14	61	0	0	0	0	0	0	7	2	1	3
+Michael Feliz, Hou RP			65	55	32	22	95	0	0	0	0	0	0	8	1	0	3
+Lance McCullers, Hou SP  DTD		81	80	29	45	106	0	6	0	0	0	0	6	5	0	0
+Michael Wacha, StL SP			138	159	78	45	114	2	13	0	0	0	0	7	7	0	0
+Clay Buchholz, Bos SP, RP		139.1	130	74	55	93	0	9	0	0	0	0	8	10	0	0
+Gerrit Cole, Pit SP			116	131	50	36	98	0	11	1	0	0	0	7	10	0	0
+Julio Urias, LAD SP			77	81	29	31	84	6	3	0	0	0	0	5	2	0	0
+Blake Treinen, Wsh RP			67	51	17	31	63	1	0	0	0	0	0	4	1	1	2
+Hansel Robles, NYM RP			77.2	69	30	36	85	0	0	0	0	0	0	6	4	1	2
+Kevin Siegrist, StL RP			61.2	42	19	26	66	1	0	0	0	0	0	6	3	3	5
+Nathan Karns, Sea SP, RP  DTD		94.1	95	54	45	101	0	5	0	0	0	0	6	2	1	0
+Brandon Kintzler, Min RP		54.1	59	19	8	35	1	0	0	0	0	0	0	2	17	3
+Matt Boyd, Det SP			97.1	97	49	29	82	1	6	0	0	0	0	6	5	0	0
+Eduardo Rodriguez, Bos SP		107	99	56	40	100	0	8	0	0	0	0	3	7	0	0
+Tony Barnette, Tex RP			60.1	54	14	16	49	0	0	0	0	0	0	7	3	0	1
+Zach Duke, StL RP  DTD			61	48	16	29	68	0	0	0	0	0	0	2	1	2	3
+Dillon Gee, KC SP, RP  DTD		125	146	65	37	89	2	4	0	0	0	0	8	9	0	0
+Derek Law, SF RP			55	44	13	9	50	0	0	0	0	0	0	4	2	1	1
+Ubaldo Jimenez, Bal SP			142.1	150	86	72	125	0	9	1	0	0	0	8	12	1	0
+Koji Uehara, Bos RP			47	34	18	11	63	0	0	0	0	0	0	2	3	7	2
+Tony Cingrani, Cin RP			63	54	29	37	49	6	0	0	0	0	0	2	5	17	6
+Wade LeBlanc, Pit SP, RP		62	59	26	11	51	0	5	0	0	0	0	4	0	2	0
+Brandon Maurer, SD RP			69.2	65	35	23	72	0	0	0	0	0	0	0	5	13	6
+Patrick Corbin, Ari SP, RP		155.2	177	89	66	131	2	8	0	0	0	0	5	13	1	0
+Seth Lugo, NYM SP, RP			64	49	19	21	45	0	4	0	0	0	0	5	2	0	0
+Anibal Sanchez, Det SP, RP		153.1	171	100	53	135	2	6	0	0	0	0	7	13	0	0
+Jake Diekman, Tex RP			53	36	20	26	59	0	0	0	0	0	0	4	2	4	1
+Blake Snell, TB SP			89	93	35	51	98	1	5	0	0	0	0	6	8	0	0
+Jason Grilli, Tor RP			59	44	27	32	81	0	0	0	0	0	0	7	6	4	4
+Alex Wilson, Det RP			73	68	24	21	49	1	0	0	0	0	0	4	0	0	4
+Ross Stripling, LAD SP, RP		100	96	44	30	74	0	4	0	0	0	0	5	9	0	0
+Daniel Norris, Det SP			69.1	75	26	22	71	0	4	0	0	0	0	4	2	0	0
+Travis Wood, ChC RP, SP			61	45	20	24	47	1	0	0	0	0	0	4	0	0	1
+Chris Rusin, Col SP, RP			84.1	82	35	23	69	4	3	0	0	0	0	3	5	0	1
+Alex Reyes, StL SP, RP			46	33	8	23	52	0	3	0	0	0	0	4	1	1	0
+Trevor Cahill, ChC RP			65.2	49	20	35	66	1	0	0	0	0	0	4	4	0	1
+Joe Biagini, Tor SP, RP			67.2	69	23	19	62	2	0	0	0	0	0	4	3	1	2
+Jordan Zimmermann, Det SP  DTD		105.1	118	57	26	66	1	8	0	0	0	0	9	7	0	0
+Fernando Salas, NYM RP			73.2	63	32	19	64	0	0	0	0	0	0	3	7	6	5
+Vance Worley, Bal RP, SP		86.2	84	34	35	56	0	1	0	0	0	0	2	2	1	0
+Neftali Feliz, Pit RP  DTD		53.2	40	21	21	61	0	0	0	0	0	0	4	2	2	2
+Christian Friedrich, SD RP, SP		129.1	131	69	52	100	1	8	0	0	0	0	5	12	0	0
+Kyle Gibson, Min SP			147.1	175	83	55	104	4	8	1	0	0	0	6	11	0	0
+Dustin McGowan, Mia RP			67	49	21	33	63	0	0	0	0	0	0	1	3	1	1
+Colin Rea, SD SP  DTD			102.2	102	55	44	80	0	7	0	0	0	0	5	5	0	0
+Bud Norris, LAD RP, SP			113	116	64	49	102	2	5	0	0	0	0	6	10	0	0
+Cam Bedrosian, LAA RP  DTD		40.1	30	5	14	51	0	0	0	0	0	0	2	0	1	1
+Felipe Rivero, Pit RP			77	66	35	33	92	4	0	0	0	0	0	1	6	1	3
+Hunter Strickland, SF RP		61	50	21	19	57	0	0	0	0	0	0	3	3	3	5
+Antonio Bastardo, Pit RP		67.2	60	34	32	74	2	0	0	0	0	0	3	0	0	2
+Blake Wood, Cin RP			76.2	72	34	38	81	0	0	0	0	0	0	6	5	1	5
+Jonathan Papelbon, Wsh RP		35	37	17	14	31	0	0	0	0	0	0	2	4	19	3
+Tyler Clippard, NYY RP			63	54	25	26	72	0	0	0	0	0	0	4	6	3	3
+Nick Tropeano, LAA SP  DTD		68.1	70	27	31	68	4	3	0	0	0	0	3	2	0	0
+Luis Perdomo, SD RP, SP			146.2	187	93	46	105	1	10	1	0	0	0	9	10	0	0
+Scott Feldman, Tor SP, RP		77	87	34	19	56	0	1	0	0	0	0	7	4	0	1
+Nick Vincent, Sea RP			60.1	53	25	15	65	0	0	0	0	0	0	4	4	3	6
+Matt Barnes, Bos RP			66.2	62	30	31	71	0	0	0	0	0	0	4	3	1	1
+Taylor Rogers, Min SP, RP		61.1	63	27	16	64	0	0	0	0	0	0	3	1	0	0
+Wily Peralta, Mil SP			127.2	152	69	43	93	1	9	0	0	0	0	7	11	0	0
+Jake Peavy, SF SP, RP			118.2	134	73	36	102	0	8	0	0	0	0	5	9	0	0
+Jorge De La Rosa, Col SP		134	157	82	63	108	1	10	0	0	0	0	8	9	0	0
+David Hernandez, Phi RP			72.2	77	31	32	80	1	0	0	0	0	0	3	4	1	2
+Andrew Cashner, Mia SP			132	142	77	60	112	0	10	0	0	0	0	5	11	0	0
+Jeff Locke, Pit SP, RP			127.1	151	77	44	73	1	9	1	1	0	0	9	8	0	0
+Erasmo Ramirez, TB SP, RP		90.2	90	38	26	63	0	0	0	0	0	0	7	11	2	4
+Mauricio Cabrera, Atl RP		38.1	31	12	19	32	0	0	0	0	0	0	5	1	6	1
+Ariel Miranda, Sea SP			58	47	25	18	44	2	4	0	0	0	0	5	2	0	0
+Dan Jennings, CWS RP			60.2	57	14	28	46	0	0	0	0	0	0	4	3	1	2
+Bryan Shaw, Cle RP			66.2	56	24	28	69	1	0	0	0	0	0	2	5	1	3
+Jerry Blevins, NYM RP			42	36	13	15	52	0	0	0	0	0	0	4	2	2	1
+Jonathon Niese, NYM SP, RP  DTD		121	145	74	47	88	2	7	0	0	0	0	8	7	0	0
+Pedro Strop, ChC RP			47.1	27	15	15	60	0	0	0	0	0	0	2	2	0	4
+JC Ramirez, LAA RP			78.2	77	38	22	59	4	0	0	0	0	0	3	4	2	4
+Robbie Ross Jr., Bos RP			55.1	47	20	23	56	0	0	0	0	0	0	3	2	0	0
+Tyler Lyons, StL RP, SP  DTD		48	35	18	14	46	0	0	0	0	0	0	2	0	0	0
+Ryan Pressly, Min RP			75.1	79	31	23	67	0	0	0	0	0	0	6	7	1	5
+Jake McGee, Col RP			45.2	56	24	16	38	0	0	0	0	0	0	2	3	15	4
+Jake Barrett, Ari RP			59.1	47	23	28	56	0	0	0	0	0	0	1	2	4	5
+Randall Delgado, Ari RP			75	77	37	36	68	0	0	0	0	0	0	5	2	0	3
+Michael Tonkin, Min RP			71.2	80	40	24	80	2	0	0	0	0	0	3	2	0	2
+Brian Flynn, KC RP			55.1	38	16	23	44	0	0	0	0	0	0	1	2	0	0
+Tim Adleman, Cin SP			69.2	64	31	20	47	2	5	0	0	0	0	4	4	0	0
+Joaquin Benoit, Tor RP			48	37	15	24	52	0	0	0	0	0	0	3	1	1	3
+Justin Grimm, ChC RP			52.2	47	24	23	65	1	0	0	0	0	0	2	1	0	0
+Heath Hembree, Bos RP			51	51	15	17	47	0	0	0	0	0	0	4	1	0	2
+Ian Krol, Atl RP			51	54	18	13	56	1	0	0	0	0	0	2	0	0	2
+Michael Lorenzen, Cin SP, RP		50	41	16	13	48	0	0	0	0	0	0	2	1	0	2
+Luis Cessa, NYY SP, RP			70.1	64	34	14	46	0	5	0	0	0	0	4	4	0	0
+Chad Kuhl, Pit SP			70.2	73	33	20	53	0	8	0	0	0	0	5	4	0	0
+Matt Garza, Mil SP			101.2	117	51	36	70	0	7	0	0	0	0	6	8	0	0
+Derek Holland, Tex SP			107.1	116	59	35	67	0	10	0	0	0	0	7	9	0	0
+Joe Musgrove, Hou SP			62	59	28	16	55	0	5	0	0	0	0	4	4	0	0
+Kyle Ryan, Det RP, SP			55.2	48	19	15	35	1	0	0	0	0	0	4	2	0	1
+Tyler Duffey, Min SP			133	167	95	32	114	0	8	0	0	0	0	9	12	0	0
+Pat Neshek, Hou RP			47	33	16	11	43	0	0	0	0	0	0	2	2	0	0
+John Axford, Oak RP			65.2	65	29	30	60	0	0	0	0	0	0	6	4	3	7
+Trevor Rosenthal, StL RP		40.1	48	20	29	56	0	0	0	0	0	0	2	4	14	4
+A.J. Schugel, Pit RP  DTD		52	41	21	13	46	0	0	0	0	0	0	2	2	1	1
+Alex Wood, LAD SP			60.1	56	25	20	66	2	5	0	0	0	0	1	4	0	0
+Albert Suarez, SF SP, RP		84	84	40	26	54	1	2	0	0	0	0	3	5	0	0
+Alex Claudio, Tex RP			51.2	55	16	10	34	0	0	0	0	0	0	4	1	0	0
+Jonathan Broxton, StL RP		60.2	52	29	24	57	0	0	0	0	0	0	4	2	0	3
+Daniel Hudson, Ari RP			60.1	65	35	22	58	0	0	0	0	0	0	3	2	5	2
+Matt Bowman, StL SP, RP			67.2	59	26	20	52	0	0	0	0	0	0	2	5	0	1
+Robert Gsellman, NYM SP  DTD		44.2	42	12	15	42	1	3	0	0	0	0	4	2	0	0
+Joe Smith, ChC RP			52	47	20	18	40	8	0	0	0	0	0	2	5	6	3
+Jhan Marinez, Mil RP			62.1	62	22	21	50	0	0	0	0	0	0	0	1	0	0
+Liam Hendriks, Oak RP			64.2	69	27	14	71	0	0	0	0	0	0	0	4	0	1
+Bruce Rondon, Det RP			36.1	23	12	12	45	0	0	0	0	0	0	5	2	0	2
+Sean Doolittle, Oak RP			39	33	14	8	45	1	0	0	0	0	0	2	3	4	2
+Carl Edwards, ChC RP			36	15	15	14	52	0	0	0	0	0	0	0	1	2	1
+Daniel Coulombe, Oak RP			47.2	37	24	17	54	1	0	0	0	0	0	3	1	0	1
+Matt Belisle, Wsh RP			46	43	9	7	32	0	0	0	0	0	0	0	0	0	0
+Yovani Gallardo, Bal SP			118	126	71	61	85	2	8	0	0	0	0	6	8	0	0
+Deolis Guerra, LAA RP			53.1	52	19	7	36	0	0	0	0	0	0	3	0	0	4
+George Kontos, SF RP			53.1	42	15	20	35	0	0	0	0	0	0	3	2	0	2
+Andrew Triggs, Oak RP, SP  DTD		56.1	56	27	13	55	0	2	0	0	0	0	1	1	0	0
+Jesse Chavez, LAD SP, RP		67	71	33	18	63	0	0	0	0	0	0	2	2	0	3
+Nick Wittgren, Mia RP			51.2	50	18	10	42	0	0	0	0	0	0	4	3	0	2
+Sergio Romo, SF RP			30.2	26	9	7	33	0	0	0	0	0	0	1	0	4	0
+Andrew Bailey, LAA RP			43.2	41	26	17	41	0	0	0	0	0	0	3	1	6	1
+Kevin Quackenbush, SD RP		59.2	55	26	22	42	0	0	0	0	0	0	7	7	2	1
+Adam Warren, NYY RP, SP			65.1	59	34	29	52	0	0	0	0	0	0	7	4	0	3
+Vidal Nuno, Sea RP, SP			58.2	67	23	11	51	1	0	0	0	0	0	1	1	0	2
+Ross Ohlendorf, Cin RP			65.2	59	34	32	68	0	0	0	0	0	0	5	7	2	3
+Zach McAllister, Cle RP			52.1	53	20	23	54	0	0	0	0	0	0	3	2	0	1
+Cory Gearrin, SF RP			48.1	42	23	14	45	0	0	0	0	0	0	3	2	3	4
+Carlos Estevez, Col RP			55	50	32	28	59	0	0	0	0	0	0	3	7	11	7
+Mike Dunn, Mia RP			42.1	43	16	11	38	3	0	0	0	0	0	6	1	0	4
+Junichi Tazawa, Bos RP			49.2	47	23	14	54	0	0	0	0	0	0	3	2	0	2
+Justin Wilson, Det RP			58.2	61	27	17	65	1	0	0	0	0	0	4	5	1	5
+Mat Latos, Wsh SP			70	74	38	30	42	2	5	0	0	0	0	7	3	0	0
+Shane Greene, Det SP, RP		60.1	58	39	22	59	0	1	0	0	0	0	5	4	2	1
+Mike Morin, LAA RP			55.2	52	27	15	49	2	0	0	0	0	0	2	2	0	1
+James Shields, CWS SP			181.2	208	118	82	135	0	18	1	0	0	0	6	19	0	0
+Chien-Ming Wang, KC SP, RP		53.1	60	25	18	30	0	0	0	0	0	0	6	0	0	0
+Boone Logan, Col RP			46.1	27	19	20	57	0	0	0	0	0	0	2	5	1	3
+Paul Clemens, SD RP, SP			71.1	72	32	31	53	0	1	0	0	0	0	4	5	0	1
+Sonny Gray, Oak SP			117	133	74	42	94	0	10	0	0	0	0	5	11	0	0
+Drew Storen, Sea RP			51.2	56	30	13	48	0	0	0	0	0	0	4	3	3	1
+Rubby De La Rosa, Ari SP  DTD		50.2	43	24	20	54	0	4	0	0	0	0	4	5	0	0
+Zach Neal, Oak SP, RP			70	72	33	6	27	0	2	0	0	0	0	2	4	2	1
+Hunter Cervenka, Mia RP			43.1	31	17	28	42	6	0	0	0	0	0	1	0	0	0
+Matt Harvey, NYM SP  DTD		92.2	111	50	25	76	1	7	0	0	0	0	4	10	0	0
+Marc Rzepczynski, Wsh RP		47.2	46	14	29	46	0	0	0	0	0	0	1	0	0	1
+Arodys Vizcaino, Atl RP  DTD		38.2	37	19	26	50	0	0	0	0	0	0	1	4	10	4
+Jared Hughes, Pit RP			59.1	62	20	22	34	0	0	0	0	0	0	1	1	1	2
+Adam Liberatore, LAD RP  DTD		42.2	34	16	17	47	1	0	0	0	0	0	2	2	0	2
+Peter Moylan, KC RP			44.2	42	17	16	34	0	0	0	0	0	0	2	0	0	0
+Darren O'Day, Bal RP			31	25	13	13	38	0	0	0	0	0	0	3	1	3	2
+Clayton Richard, SD RP, SP		67.2	81	25	31	41	4	5	0	0	0	0	3	4	1	0
+Josh Collmenter, Atl RP, SP		41.1	36	17	16	33	0	2	0	0	0	0	3	0	0	0
+Adam Ottavino, Col RP			27	18	8	7	35	0	0	0	0	0	0	1	3	7	5
+Carlos Villanueva, SD RP		74	89	49	14	61	0	0	0	0	0	0	2	2	1	1
+Fernando Rodriguez, Oak RP  DTD		40.2	30	19	17	37	0	0	0	0	0	0	2	0	0	0
+Tommy Layne, NYY RP			44.2	37	18	21	38	2	0	0	0	0	0	2	1	1	2
+Yusmeiro Petit, Wsh RP			62	67	31	15	49	0	1	0	0	0	0	3	5	1	1
+Sammy Solis, Wsh RP			41	31	11	21	47	0	0	0	0	0	0	2	4	0	1
+Tyler Wilson, Bal SP, RP		94	110	55	24	55	0	6	0	0	0	0	4	6	0	0
+Jharel Cotton, Oak SP			29.1	20	7	4	23	0	3	0	0	0	0	2	0	0	0
+Danny Farquhar, TB RP			35.1	33	12	15	46	0	0	0	0	0	0	1	0	0	1
+Josh Smith, Cin SP, RP			59.2	57	31	26	48	0	0	0	0	0	0	3	3	0	0
+Joakim Soria, KC RP			66.2	70	30	27	68	1	0	0	0	0	0	5	8	1	7
+J.P. Howell, LAD RP			50.2	56	23	15	44	1	0	0	0	0	0	1	1	0	0
+Jose Alvarez, LAA RP			57.1	71	22	15	51	0	0	0	0	0	0	1	3	0	1
+Brian Ellington, Mia RP			33	27	9	16	32	0	0	0	0	0	0	4	2	0	0
+Ryan Vogelsong, Pit SP, RP		82.1	81	44	40	61	0	3	0	0	0	0	3	7	0	0
+Jumbo Diaz, Cin RP			43	36	15	19	37	1	0	0	0	0	0	1	1	0	1
+Buddy Boshers, Min RP			36	35	17	7	37	0	0	0	0	0	0	2	0	0	0
+Arquimedes Caminero, Sea RP		60.2	67	24	33	50	0	0	0	0	0	0	2	3	1	2
+Jeff Manship, Cle RP			43.1	40	15	22	36	0	0	0	0	0	0	2	1	0	1
+Trevor May, Min RP, SP  DTD		42.2	39	25	17	60	0	0	0	0	0	0	2	2	0	2
+Grant Dayton, LAD RP			26.1	14	6	6	39	1	0	0	0	0	0	0	1	0	2
+Tyler Skaggs, LAA SP			49.2	51	23	23	50	0	4	0	0	0	0	3	4	0	0
+Matt Cain, SF SP			89.1	103	56	32	72	0	4	0	0	0	0	4	8	0	0
+Chaz Roe, Atl RP			29.2	22	12	14	37	0	0	0	0	0	0	2	0	0	1
+Chris Withrow, Atl RP			37.2	29	15	17	28	1	0	0	0	0	0	3	0	0	3
+Chad Green, NYY SP  DTD			45.2	49	24	15	52	0	3	0	0	0	0	2	4	1	0
+Joe Kelly, Bos SP, RP			40	44	23	24	48	0	1	0	0	0	0	4	0	0	1
+Adam Morgan, Phi SP			113.1	141	76	29	95	3	8	0	0	0	0	2	11	0	0
+Keone Kela, Tex RP			34	30	23	17	45	0	0	0	0	0	0	5	1	0	1
+Chris Young, KC SP, RP  DTD		88.2	104	61	43	94	3	2	0	0	0	0	3	9	1	0
+Louis Coleman, LAD RP			48	45	25	24	45	0	0	0	0	0	0	2	1	0	2
+Enny Romero, TB RP			45.2	42	30	28	50	0	0	0	0	0	0	2	0	1	1
+Zack Godley, Ari SP, RP			74.2	86	53	25	60	0	3	0	0	0	0	5	4	0	1
+Michael Ynoa, CWS RP			30	20	10	17	30	0	0	0	0	0	0	1	0	0	0
+Mike Clevinger, Cle SP, RP		53	50	31	29	50	0	0	0	0	0	0	3	3	0	0
+Logan Verrett, NYM RP, SP		91.2	100	53	43	66	1	4	0	0	0	0	3	8	0	0
+Dario Alvarez, Tex RP			26.2	28	15	7	41	2	0	0	0	0	0	3	1	0	0
+Lucas Harrell, Tex SP			47	46	22	25	36	0	4	0	0	0	0	3	2	0	0
+Zach Putnam, CWS RP  DTD		27.1	25	7	11	30	0	0	0	0	0	0	1	0	0	0
+Reynaldo Lopez, Wsh SP			44	47	24	22	42	0	2	0	0	0	0	5	3	0	0
+Mike Wright, Bal SP, RP			74.2	81	48	26	50	0	4	0	0	0	0	3	4	0	0
+Matt Strahm, KC RP			22	13	3	11	30	0	0	0	0	0	0	2	2	0	0
+Will Smith, SF RP			40.1	31	15	18	48	0	0	0	0	0	0	2	4	0	5
+Kirby Yates, NYY RP			41.1	41	24	19	50	0	0	0	0	0	0	2	1	0	2
+Garrett Richards, LAA SP  DTD		34.2	31	9	15	34	0	4	0	0	0	0	1	3	0	0
+Brett Oberholtzer, LAA SP, RP		70.1	85	46	29	54	0	0	0	0	0	0	3	3	1	0
+Luis Avilan, LAD RP			19.2	12	7	10	28	1	0	0	0	0	0	3	0	0	1
+Rob Scahill, Mil RP			34.2	34	13	9	27	2	0	0	0	0	0	0	0	0	0
+Xavier Cedeno, TB RP  DTD		41.1	36	17	13	43	0	0	0	0	0	0	3	4	0	5
+Zach Eflin, Phi SP			63.1	67	39	17	31	1	6	2	1	0	0	3	5	0	0
+Luke Hochevar, KC RP  DTD		37.1	31	16	9	40	0	0	0	0	0	0	2	3	0	4
+Chasen Shreve, NYY RP			33	29	19	13	33	1	0	0	0	0	0	2	1	1	0
+Edubray Ramos, Phi RP  DTD		40	36	17	11	40	0	0	0	0	0	0	1	3	0	2
+Edwin Jackson, SD RP, SP		84	92	55	41	61	2	7	0	0	0	0	5	7	0	0
+Josh Fields, LAD RP			35	43	18	11	42	0	0	0	0	0	0	1	0	0	0
+Alec Asher, Phi SP			27.2	22	7	4	13	1	3	0	0	0	0	2	1	0	0
+Jose Ramirez, Atl RP			32.2	26	13	18	33	0	0	0	0	0	0	2	2	0	0
+Chris Smith, Oak RP			24.2	14	8	13	29	0	0	0	0	0	0	0	0	0	0
+Jacob Barnes, Mil RP			26.2	24	8	6	26	0	0	0	0	0	0	0	1	1	0
+Brandon McCarthy, LAD SP		40	29	22	26	44	2	2	0	0	0	0	2	3	0	1
+Luis Severino, NYY SP, RP		71	78	46	25	66	0	2	0	0	0	0	3	8	0	0
+Blaine Boyer, Mil RP			66	80	29	17	26	0	0	0	0	0	0	2	4	1	2
+Braden Shipley, Ari SP			70	80	41	28	43	0	5	0	0	0	0	4	5	0	0
+Ryan Garton, TB RP			39.1	44	19	11	33	0	0	0	0	0	0	1	2	1	0
+Chris Hatcher, LAD RP  DTD		40.2	40	25	21	43	1	0	0	0	0	0	5	4	0	1
+Miguel Socolovich, StL RP		18	5	4	5	16	0	0	0	0	0	0	1	0	0	0
+Brad Peacock, Hou SP, RP		31.2	21	13	14	28	0	1	0	0	0	0	0	1	0	0
+Justin Nicolino, Mia SP			79.1	96	44	20	37	1	3	0	0	0	0	3	6	0	0
+Erik Goeddel, NYM RP			35.2	33	18	14	36	0	0	0	0	0	0	2	2	0	1
+Shawn Tolleson, Tex RP  DTD		36.1	53	31	10	29	1	0	0	0	0	0	2	2	11	4
+Oliver Perez, Wsh RP			40	38	22	20	46	0	0	0	0	0	0	2	3	0	1
+Jim Henderson, NYM RP			35	35	17	14	40	0	0	0	0	0	0	2	2	0	2
+Tommy Hunter, Bal RP			34	35	12	8	23	0	0	0	0	0	0	2	2	0	1
+Tommy Milone, Min SP, RP		69.1	84	44	22	49	2	2	0	0	0	0	3	5	0	0
+John Gant, Atl SP, RP			50	54	27	21	49	0	1	0	0	0	0	1	4	0	0
+A.J. Cole, Wsh RP, SP			38.1	37	22	14	39	0	1	0	0	0	0	1	2	0	0
+Gavin Floyd, Tor RP  DTD		31	23	14	8	30	0	0	0	0	0	0	2	4	0	1
+Tony Sipp, Hou RP			43.2	52	24	18	40	1	0	0	0	0	0	1	2	1	1
+A.J. Achter, LAA RP			37.2	43	13	12	14	0	0	0	0	0	0	1	0	0	0
+Tyler Cravy, Mil SP, RP			28.1	21	9	12	22	0	0	0	0	0	0	0	1	0	0
+Evan Scribner, Sea RP			14	5	0	2	15	0	0	0	0	0	0	0	0	0	0
+Keyvius Sampson, Cin SP, RP		39.1	40	19	27	42	0	0	0	0	0	0	0	1	0	0
+Josh Smoker, NYM RP			15.1	16	8	4	25	0	0	0	0	0	0	3	0	0	0
+Fernando Abad, Bos RP			46.2	40	19	22	41	0	0	0	0	0	0	1	6	1	4
+Justin Miller, Col RP			42.2	50	27	20	45	0	0	0	0	0	0	1	1	0	0
+Nick Goody, NYY RP			29	30	15	12	34	0	0	0	0	0	0	0	0	0	0
+Jose Urena, Mia RP, SP			83.2	91	57	29	58	0	4	0	0	0	0	4	9	1	2
+Ty Blach, SF SP			        17	8	2	5	10	0	1	0	0	0	0	1	0	0	0
+Rob Zastryzny, ChC RP			16	12	2	5	17	0	0	0	0	0	0	1	0	0	0
+Huston Street, LAA RP  DTD		22.1	31	16	12	14	1	0	0	0	0	0	3	2	9	3
+Richard Bleier, NYY SP, RP		23	20	5	4	13	0	0	0	0	0	0	0	0	0	0
+Matt Koch, Ari RP			18	9	4	4	10	0	1	0	0	0	0	1	1	1	0
+Casey Fien, LAD RP			39.1	45	24	10	35	0	0	0	0	0	0	1	1	0	1
+Alexi Ogando, Atl RP			32	32	14	23	29	0	0	0	0	0	0	2	1	0	0
+Tommy Kahnle, CWS RP			27.1	21	8	20	25	0	0	0	0	0	0	0	1	1	1
+Gonzalez Germen, Col RP			40.2	41	24	25	32	0	0	0	0	0	0	2	1	1	1
+Donnie Hart, Bal RP			18.1	12	1	6	12	0	0	0	0	0	0	0	0	0	0
+Joba Chamberlain, Cle RP		20	12	5	11	18	0	0	0	0	0	0	0	0	0	0
+Blaine Hardy, Det RP			25.2	25	10	12	20	0	0	0	0	0	0	1	0	0	0
+Seth Maness, StL RP  DTD		31.2	34	12	8	16	0	0	0	0	0	0	2	2	0	0
+Enrique Burgos, Ari RP			41.1	38	26	23	43	0	0	0	0	0	0	1	2	1	3
+Corey Knebel, Mil RP			32.2	32	17	16	38	1	0	0	0	0	0	1	4	2	2
+Severino Gonzalez, Phi SP, RP		35.1	40	22	7	34	0	0	0	0	0	0	1	2	0	0
+James Hoyt, Hou RP			22	16	11	9	28	0	0	0	0	0	0	1	1	0	1
+Ryan O'Rourke, Min RP			25	18	11	10	24	0	0	0	0	0	0	0	1	0	0
+Mike Pelfrey, Det SP			119	160	67	46	56	0	5	0	0	0	0	4	10	0	0
+Anthony Swarzak, NYY RP			31	28	19	7	31	0	0	0	0	0	0	1	2	0	1
+Oliver Drake, Bal RP			18	11	8	7	21	0	0	0	0	0	0	1	0	0	1
+Kyle Lobstein, Pit SP, RP		25	25	11	12	15	0	0	0	0	0	0	2	0	0	0
+Michael Mariot, Phi RP			21.2	18	14	14	23	0	0	0	0	0	0	1	0	2	1
+Williams Perez, Atl SP  DTD		53.2	57	36	15	27	1	3	0	0	0	0	2	3	0	0
+Jandel Gustave, Hou RP			15.1	13	6	4	16	1	0	0	0	0	0	1	0	0	0
+Kevin Jepsen, TB RP			49.2	62	33	21	35	0	0	0	0	0	0	2	6	7	4
+Jose Dominguez, SD RP			35.2	34	20	17	20	0	0	0	0	0	0	1	0	0	1
+Brandon Cunniff, Atl RP			17	14	8	9	16	0	0	0	0	0	0	2	0	0	0
+Chad Qualls, Col RP			32.2	43	19	9	22	0	0	0	0	0	0	2	0	0	1
+Joel Peralta, ChC RP			27.1	30	18	8	33	2	0	0	0	0	0	1	1	0	2
+Tony Zych, Sea RP  DTD			13.2	10	5	10	21	0	0	0	0	0	0	1	0	0	0
+Michael Blazek, Mil RP			41.1	52	26	27	36	1	0	0	0	0	0	3	1	0	1
+Brent Suter, Mil SP, RP			21.2	25	8	5	15	3	0	0	0	0	0	2	2	0	0
+Chris Capuano, Mil RP  DTD		24	23	11	15	27	0	0	0	0	0	0	1	1	0	1
+Joel De La Cruz, Atl RP, SP		62.2	65	34	22	37	1	1	0	0	0	0	0	7	0	0
+Colton Murray, Phi RP			31.2	34	22	13	31	0	0	0	0	0	0	1	1	0	0
+Leonel Campos, SD RP			22	18	14	14	24	0	0	0	0	0	0	1	0	0	0
+Buck Farmer, Det RP, SP			29.1	25	15	20	27	0	0	0	0	0	0	0	1	0	0
+Luke Weaver, StL SP			36.1	46	23	12	45	0	3	0	0	0	0	1	4	0	0
+Koda Glover, Wsh RP  DTD		19.2	15	11	7	16	0	0	0	0	0	0	2	0	0	2
+Brett Cecil, Tor RP			36.2	39	16	8	45	0	0	0	0	0	0	1	7	0	4
+Chase Whitley, TB SP			14.1	13	4	3	15	0	0	0	0	0	0	0	0	0	0
+Josh Ravin, LAD RP			9.2	2	1	4	13	0	0	0	0	0	0	0	0	0	0
+Ryan Weber, Atl SP, RP			36.1	46	22	5	23	0	0	0	0	0	0	1	1	0	1
+Ryan Merritt, Cle SP			11	6	2	0	6	0	0	0	0	0	0	1	0	0	0
+Blake Parker, NYY RP			17.1	17	9	9	15	0	0	0	0	0	0	1	0	1	0
+Drew Hutchison, Pit SP			24	28	14	7	22	0	1	0	0	0	0	1	0	0	1
+Cody Anderson, Cle SP, RP  DTD		60.2	85	45	13	54	0	2	0	0	0	0	2	5	0	0
+Scott Oberg, Col RP  DTD		26	26	15	11	20	0	0	0	0	0	0	1	1	1	1
+Charlie Morton, Phi SP  DTD		17.1	15	8	8	19	0	2	0	0	0	0	1	1	0	0
+Cesar Ramos, Tex RP, SP			47.2	60	32	20	27	1	2	0	0	0	0	3	3	1	0
+Steve Johnson, Sea RP			16.2	13	8	11	17	0	0	0	0	0	0	1	0	0	0
+Shelby Miller, Ari SP			101	127	69	42	70	1	4	1	1	0	0	3	12	0	0
+Daniel Mengden, Oak SP			72	83	52	33	71	0	4	0	0	0	0	2	9	0	0
+Jason Vargas, KC SP			12	8	3	3	11	1	0	0	0	0	0	0	0	0	0
+Ryan Tepera, Tor RP			18.1	17	6	8	18	0	0	0	0	0	0	0	1	0	0
+Brandon Morrow, SD SP, RP		16	19	3	3	8	0	0	0	0	0	0	1	0	0	1
+Jake Thompson, Phi SP			53.2	53	34	28	32	1	3	0	0	0	0	3	6	0	0
+Jose Leclerc, Tex SP, RP		15	11	3	13	15	0	0	0	0	0	0	0	0	0	0
+Dan Altavilla, Sea RP			12.1	11	1	1	10	0	0	0	0	0	0	0	0	0	1
+Jose Valdez, LAA RP			23.1	17	11	16	22	0	0	0	0	0	0	2	3	0	1
+Nefi Ogando, Mia RP			15.2	10	4	8	8	0	0	0	0	0	0	0	0	0	0
+Felix Pena, ChC SP, RP			9	5	4	3	13	0	0	0	0	0	0	0	0	1	0
+Mark Lowe, Det RP			49.1	57	39	21	49	0	0	0	0	0	0	1	3	0	1
+Jason Motte, Col RP			23.2	28	13	8	24	0	0	0	0	0	0	0	1	0	0
+Bryan Morris, Mia RP			17.2	15	6	10	13	0	0	0	0	0	0	0	0	1	2
+Cody Martin, Sea RP			25.2	28	11	9	15	0	0	0	0	0	0	1	2	0	0
+Brock Stewart, LAD SP			28	33	18	12	25	0	0	0	0	0	0	2	2	0	0
+Brian Duensing, Bal RP			13.1	13	6	3	10	0	0	0	0	0	0	1	0	0	0
+Robert Stephenson, Cin SP		37	41	25	19	31	0	1	0	0	0	0	2	3	0	0
+Josh Osich, SF RP  DTD			36.1	31	19	19	25	0	0	0	0	0	0	1	3	0	3
+Tyler Glasnow, Pit SP			23.1	22	11	13	24	0	0	0	0	0	0	0	2	0	0
+Elvis Araujo, Phi RP			27.1	35	17	17	29	0	0	0	0	0	0	2	1	0	1
+Tyler Wagner, Ari SP  DTD		10	9	2	2	7	0	0	0	0	0	0	1	0	0	0
+Jose De Leon, LAD RP, SP		17	19	12	7	15	1	1	0	0	0	0	2	0	0	0
+Joe Nathan, SF RP			6.1	5	0	4	9	0	0	0	0	0	0	2	0	0	1
+Jordan Lyles, Col SP, RP		58.2	69	38	28	32	0	1	0	0	0	0	4	5	1	3
+Robbie Erlin, SD SP  DTD		15.2	12	7	3	13	0	1	0	0	0	0	1	2	0	0
+Bryan Mitchell, NYY RP, SP		25	26	9	12	11	1	2	0	0	0	0	1	2	0	0
+Spencer Patton, ChC RP			21.1	20	13	14	22	0	0	0	0	0	0	1	1	0	0
+Rob Whalen, Atl SP  DTD			24.2	20	18	12	25	0	2	0	0	0	0	1	2	0	0
+John Lamb, Cin SP  DTD			70	84	50	31	58	2	5	0	0	0	0	1	7	0	0
+Buddy Baumann, SD RP			9.2	7	4	4	10	0	0	0	0	0	0	1	0	0	0
+Scott Alexander, KC RP			19	24	7	7	16	0	0	0	0	0	0	0	0	0	1
+Steven Okert, SF RP			14	14	5	4	14	0	0	0	0	0	0	0	0	0	1
+J.T. Chargois, Min RP			23	25	12	12	17	0	0	0	0	0	0	1	1	0	0
+Neil Ramirez, Min RP			24	22	16	18	24	0	0	0	0	0	0	0	0	0	0
+Tyler Sturdevant, TB RP			18.1	18	8	6	14	0	0	0	0	0	0	0	1	0	0
+Keith Hessler, SD RP			21.2	24	10	13	11	0	0	0	0	0	0	1	0	0	0
+Danny Barnes, Tor RP			13.2	14	6	5	14	0	0	0	0	0	0	0	0	0	0
+Kyle Crockett, Cle RP			16	16	9	7	17	0	0	0	0	0	0	0	0	0	0
+Steven Geltz, TB RP			26.2	24	17	9	23	0	0	0	0	0	0	0	2	0	1
+Brad Boxberger, TB RP			24.1	23	13	19	22	0	0	0	0	0	0	4	3	0	3
+Pat Dean, Min SP, RP			67.1	88	47	23	50	1	3	0	0	0	0	1	6	0	0
+Dean Kiekhefer, StL RP			22	24	13	7	14	0	0	0	0	0	0	0	0	0	0
+Pat Venditte, Sea RP			22	24	14	11	19	0	0	0	0	0	0	0	0	0	0
+Eddie Gamboa, TB SP, RP			13.1	9	2	8	11	2	0	0	0	0	0	0	2	0	0
+Alex Meyer, LAA RP, SP			25.1	25	16	17	29	0	0	0	0	0	0	1	3	0	0
+Aaron Loup, Tor RP			14.1	15	8	4	15	1	0	0	0	0	0	0	0	0	1
+Andrew Chafin, Ari RP			22.2	22	17	11	28	0	0	0	0	0	0	0	1	0	1
+Jake Buchanan, ChC RP			6	3	1	1	4	0	0	0	0	0	0	1	0	0	0
+Cesar Vargas, SD RP, SP  DTD		34	41	19	15	28	0	2	0	0	0	0	0	3	0	0
+Cody Ege, LAA RP			11.2	16	5	5	11	0	0	0	0	0	0	1	0	0	0
+Steve Hathaway, Ari RP			14.2	18	8	6	15	1	0	0	0	0	0	0	0	0	0
+Sean O'Sullivan, Bos SP			21.1	30	16	6	13	0	0	0	0	0	0	2	0	0	0
+Tanner Scheppers, Tex RP		8.2	6	4	3	5	0	0	0	0	0	0	1	1	1	0
+Josh Edgin, NYM RP			10.1	10	6	6	11	0	0	0	0	0	0	1	0	0	0
+Shawn Armstrong, Cle RP			10.2	9	3	5	7	0	0	0	0	0	0	0	0	0	0
+Greg Mahle, LAA RP			18.1	23	11	10	14	0	0	0	0	0	0	1	0	0	0
+German Marquez, Col SP			20.2	28	12	6	15	0	1	0	0	0	0	1	1	0	0
+Javier Lopez, SF RP			26.2	24	12	15	15	0	0	0	0	0	0	1	3	1	3
+Phil Hughes, Min SP  DTD		59	76	39	13	34	0	6	1	0	0	0	1	7	0	0
+Joely Rodriguez, Phi SP, RP		9.2	8	3	4	7	0	0	0	0	0	0	0	0	0	0
+Gabriel Ynoa, NYM SP, RP		18.1	26	13	7	17	0	0	0	0	0	0	1	0	0	0
+Tyrell Jenkins, Atl SP, RP  DTD		52	55	34	33	26	1	4	0	0	0	0	2	4	0	0
+Chris Stratton, SF SP, RP		10	11	4	5	6	0	0	0	0	0	0	1	0	0	0
+Juan Minaya, CWS RP			10.1	10	5	5	6	0	0	0	0	0	0	1	0	0	0
+Nick Martinez, Tex SP, RP		38.2	45	24	19	16	1	0	0	0	0	0	2	3	0	0
+Steven Brault, Pit SP			33.1	45	18	17	29	0	1	0	0	0	0	0	3	0	0
+Matt Thornton, SD RP			17	22	11	6	9	0	0	0	0	0	0	1	0	0	0
+Homer Bailey, Cin SP  DTD		23	35	17	7	27	0	1	0	0	0	0	2	3	0	0
+Ross Detwiler, Oak RP, SP		48.2	59	33	19	26	0	2	0	0	0	0	2	4	0	1
+Ryan Webb, TB RP			17.1	27	10	3	11	2	0	0	0	0	0	0	0	0	0
+Austin Brice, Mia SP, RP		14	9	11	5	14	0	0	0	0	0	0	0	1	0	0
+Justin Marks, TB SP			9	7	1	9	6	0	0	0	0	0	0	0	0	0	0
+Eddie Butler, Col SP, RP		64	87	51	21	47	1	3	0	0	0	0	2	5	0	0
+Shae Simmons, Atl RP  DTD		6.2	6	1	0	3	0	0	0	0	0	0	0	0	0	0
+Bo Schultz, Tor RP			16.1	17	10	3	10	0	0	0	0	0	0	0	1	0	0
+Jesse Hahn, Oak SP			46.1	57	31	19	23	0	4	0	0	0	0	2	4	0	0
+Zach Phillips, Pit RP			6.2	8	2	1	6	0	0	0	0	0	0	0	0	0	0
+Jarred Cosart, SD SP  DTD		57	61	38	39	38	0	1	0	0	0	0	0	4	0	0
+Perci Garner, Cle RP			9.1	12	5	5	12	0	0	0	0	0	0	0	0	0	0
+Rafael Martin, Wsh RP			3.2	0	1	1	5	0	0	0	0	0	0	0	0	0	0
+Dalier Hinojosa, Phi RP			11	10	4	3	8	1	0	0	0	0	0	0	1	0	1
+Trevor Gott, Wsh RP			6	6	1	3	6	0	0	0	0	0	0	0	0	0	0
+Chad Girodo, Tor RP			10.1	11	5	2	5	0	0	0	0	0	0	0	0	0	0
+Alex Wimmers, Min SP, RP		17.1	14	8	11	14	0	0	0	0	0	0	1	3	0	1
+Andrew Albers, Min RP			17	27	11	6	16	0	0	0	0	0	0	0	0	0	0
+Noe Ramirez, Bos RP			13	16	9	8	15	0	0	0	0	0	0	0	0	0	0
+Carlos Frias, LAD SP  DTD		4	2	0	1	3	0	0	0	0	0	0	0	0	0	0
+Matt Grace, Wsh RP			3	1	0	0	4	0	0	0	0	0	0	0	0	0	0
+Dylan Floro, TB SP, RP  DTD		15	23	7	5	14	0	0	0	0	0	0	0	1	0	0
+Matt Buschmann, Ari SP			4.1	2	1	1	3	0	0	0	0	0	0	0	0	0	0
+Vicente Campos, Ari SP  DTD		5.2	4	2	2	4	0	0	0	0	0	0	0	0	0	0
+Jerome Williams, StL SP, RP		17.1	22	11	6	8	0	0	0	0	0	0	0	0	0	0
+Ashur Tolliver, Bal RP			4.2	5	3	3	5	0	0	0	0	0	0	1	0	0	0
+Wilfredo Boscan, Pit SP, RP		15.1	15	11	7	8	0	0	0	0	0	0	1	1	0	0
+Matt Purke, CWS SP, RP			18	20	11	12	15	0	0	0	0	0	0	0	1	0	0
+Chris Bassitt, Oak SP  DTD		28	35	19	14	23	0	2	0	0	0	0	0	2	0	0
+Dan Winkler, Atl RP  DTD		2.1	0	0	1	4	0	0	0	0	0	0	0	0	0	0
+Phil Klein, Phi RP			19.1	23	15	9	19	0	0	0	0	0	0	0	1	0	0
+Miguel Castro, Col RP			14.2	18	10	5	12	0	0	0	0	0	0	0	0	0	1
+Jake Smith, SD RP			4	5	2	1	3	0	0	0	0	0	0	1	0	0	0
+Phil Coke, Pit RP			10	10	4	7	4	0	0	0	0	0	0	0	0	0	0
+Donn Roach, Oak SP			5.1	7	5	2	2	0	0	0	0	0	0	2	0	0	0
+Johnny Barbato, NYY RP			13	13	11	5	15	0	0	0	0	0	0	1	2	0	0
+Mike Bolsinger, Tor SP			27.2	33	21	9	25	0	0	0	0	0	0	1	4	0	0
+Chris Beck, CWS SP, RP			25.1	31	18	17	20	0	0	0	0	0	0	2	2	0	1
+Jayson Aquino, Bal SP			2.1	1	0	0	3	0	0	0	0	0	0	0	0	0	0
+A.J. Morris, Cin RP			10	9	7	8	9	0	0	0	0	0	0	0	0	0	0
+Dustin Molleken, Det RP			8.1	12	4	5	8	0	0	0	0	0	0	0	0	0	0
+Jeff Hoffman, Col SP			31.1	37	17	17	22	0	1	0	0	0	0	0	4	0	0
+Brooks Pounders, KC SP, RP		12.2	19	13	3	13	0	0	0	0	0	0	2	1	0	0
+Jake Petricka, CWS RP			8	8	4	8	7	0	0	0	0	0	0	0	0	0	0
+Steve Delabar, Cin RP			8	5	6	10	10	0	0	0	0	0	0	0	0	0	0
+Carson Smith, Bos RP  DTD		2.2	2	0	1	2	0	0	0	0	0	0	0	0	0	0
+Yimi Garcia, LAD RP  DTD		8.1	9	3	1	4	0	0	0	0	0	0	0	0	0	2
+Drew VerHagen, Det RP  DTD		19	28	15	7	10	0	0	0	0	0	0	1	0	0	0
+Mayckol Guaipe, Sea RP			7.1	8	4	4	5	0	0	0	0	0	0	0	0	0	0
+Jose Torres, SD RP			3	3	0	2	3	0	0	0	0	0	0	0	0	0	0
+Conor Mullee, NYY RP  DTD		3	0	1	4	4	0	0	0	0	0	0	0	0	0	0
+Kendry Flores, Mia RP			3	1	0	3	1	0	0	0	0	0	0	0	0	0	0
+Cory Rasmus, LAA RP			24.2	25	16	16	17	1	0	0	0	0	0	0	2	0	1
+Luis Garcia, Phi RP			15.1	21	11	8	14	0	0	0	0	0	0	1	1	0	1
+Chris Narveson, Mia RP			8.1	10	8	2	6	0	0	0	0	0	0	1	0	0	1
+Andrew Heaney, LAA SP  DTD		6	7	4	0	7	0	0	0	0	0	0	0	1	0	0
+Jake Esch, Mia SP			13	17	8	6	10	0	0	0	0	0	0	0	1	0	0
+Tom Wilhelmsen, Sea RP			46.1	60	35	19	28	0	0	0	0	0	0	2	4	1	3
+Jed Bradley, Atl RP			7	7	4	6	4	0	0	0	0	0	0	1	1	0	0
+Gerardo Concepcion, ChC RP		2.1	2	1	1	2	0	0	0	0	0	0	0	0	0	0
+Sam Tuivailala, StL RP			9	12	6	6	7	0	0	0	0	0	0	0	0	0	0
+David Rollins, Sea RP			9.1	12	8	7	6	0	0	0	0	0	0	1	0	0	0
+Ben Heller, NYY RP			7	11	5	4	6	0	0	0	0	0	0	1	0	0	1
+Kelvin Marte, Pit SP			3.1	5	0	2	1	0	0	0	0	0	0	0	0	0	0
+Logan Kensing, Det RP			4.2	8	1	2	1	0	0	0	0	0	0	0	0	0	0
+Roberto Hernandez, Atl SP, RP		9	13	8	1	6	0	0	0	0	0	0	1	1	0	0
+Javy Guerra, LAA RP			6.1	5	4	7	4	0	0	0	0	0	0	0	0	0	0
+Daniel Webb, CWS RP  DTD		1	2	0	1	3	0	0	0	0	0	0	0	0	0	0
+Sean Gilmartin, NYM RP			17.2	21	14	7	11	0	0	0	0	0	0	0	1	0	0
+T.J. House, Cle SP			2.2	6	1	0	2	1	0	0	0	0	0	0	0	0	0
+Warwick Saupold, Det SP, RP		9.2	17	8	3	10	0	0	0	0	0	0	1	1	0	0
+Jacob Turner, CWS SP, RP		24.2	33	18	16	18	0	0	0	0	0	0	1	2	0	0
+Matt Marksberry, Atl RP  DTD		3.1	5	2	1	2	0	0	0	0	0	0	0	0	0	0
+Al Alburquerque, LAA RP			2	2	1	2	1	0	0	0	0	0	0	0	0	0	0
+Frank Herrmann, Phi RP			15	20	14	5	14	0	0	0	0	0	0	1	2	0	0
+Kyle Drabek, Ari RP			2	1	1	4	2	0	0	0	0	0	0	0	0	0	0
+Blake Smith, CWS RP			4.1	7	3	0	1	0	0	0	0	0	0	0	0	0	0
+Dominic Leone, Ari RP			27	45	19	12	23	0	0	0	0	0	0	0	1	0	1
+David Paulino, Hou SP			7	6	4	3	2	0	0	0	0	0	0	0	1	0	0
+Matt Carasiti, Col RP			15.2	25	16	11	17	0	0	0	0	0	0	1	0	0	0
+Adam Plutko, Cle SP			3.2	5	3	2	3	0	0	0	0	0	0	0	0	0	0
+Daniel Wright, LAA SP			39.2	57	27	8	21	0	2	0	0	0	0	1	5	0	0
+Bobby Parnell, Det RP			5.1	7	4	5	4	0	0	0	0	0	0	0	0	0	0
+Scott Carroll, Tex RP			2.1	2	3	1	2	0	0	0	0	0	0	0	0	0	0
+Raul Alcantara, Oak SP			22.1	31	18	4	14	0	0	0	0	0	0	1	3	0	0
+Lucas Giolito, Wsh SP			21.1	26	16	12	11	0	0	0	0	0	0	0	1	0	0
+Henry Owens, Bos SP			22	23	17	20	21	0	1	0	0	0	0	0	2	0	0
+Trevor Williams, Pit SP			12.2	19	11	5	11	0	0	0	0	0	0	1	1	0	1
+James Pazos, NYY RP			3.1	7	5	1	3	0	0	0	0	0	0	1	0	0	0
+Odrisamer Despaigne, Mia SP, RP		30.1	36	20	16	17	0	0	0	0	0	0	0	2	0	2
+Tayron Guerrero, Mia RP			2	3	1	1	0	0	0	0	0	0	0	0	0	0	0
+Silvino Bracho, Ari RP			24.2	31	20	10	17	0	0	0	0	0	0	0	2	0	0
+Jonathan Aro, Sea RP			0.2	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+Damien Magnifico, Mil RP		3	2	2	3	0	0	0	0	0	0	0	0	0	0	0
+Madison Younginer, Atl RP		7	12	5	4	4	0	0	0	0	0	0	0	0	0	0
+J.R. Graham, NYY RP			1.2	3	2	1	2	0	0	0	0	0	0	0	0	0	0
+Rafael Montero, NYM RP, SP		19	23	17	16	20	0	0	0	0	0	0	0	1	0	0
+Jason Gurka, Col RP			9.2	16	10	2	7	1	0	0	0	0	0	0	0	0	0
+Tyler Olson, Cle RP			2.2	3	2	2	0	0	0	0	0	0	0	0	0	0	0
+Andrew Faulkner, Tex RP			6.2	8	5	4	1	0	0	0	0	0	0	0	0	0	0
+Craig Breslow, Mia RP			14	21	7	4	7	1	0	0	0	0	0	0	2	0	1
+Jo-Jo Reyes, Mia SP			2	3	2	1	0	0	0	0	0	0	0	0	0	0	0
+Arnold Leon, Tor RP			2.1	3	2	1	2	0	0	0	0	0	0	0	0	0	1
+Austin Adams, Cle RP			18.1	27	20	7	17	0	0	0	0	0	0	0	0	0	0
+Matt Magill, Cin SP			4.1	5	3	5	1	0	0	0	0	0	0	0	0	0	0
+William Cuevas, Bos SP			5	5	2	6	3	0	0	0	0	0	0	0	1	0	0
+Logan Ondrusek, Bal RP			6.1	9	7	3	4	0	0	0	0	0	0	0	0	0	0
+Parker Bridwell, Bal SP			3.1	5	5	1	3	0	0	0	0	0	0	0	0	0	0
+Edwin Escobar, Ari RP			23.2	33	19	12	17	0	0	0	0	0	0	1	2	0	1
+Aaron Blair, Atl SP			70	82	59	34	46	0	4	0	0	0	0	2	7	0	0
+Adalberto Mejia, Min SP			2.1	5	2	1	0	0	0	0	0	0	0	0	0	0	0
+Cody Hall, Mia RP			3	4	4	3	3	0	0	0	0	0	0	0	0	0	0
+Glen Perkins, Min RP  DTD		2	5	2	1	3	0	0	0	0	0	0	0	0	0	1
+Eric O'Flaherty, Atl RP  DTD		28.2	39	22	11	22	0	0	0	0	0	0	1	4	0	1
+Franklin Morales, Tor RP		4	3	4	2	2	0	0	0	0	0	0	0	1	0	0
+Alex Cobb, TB SP			22	32	21	7	16	0	2	0	0	0	0	1	2	0	0
+Mike Broadway, SF RP			5.1	9	7	1	4	0	0	0	0	0	0	0	0	0	0
+Branden Pinder, NYY RP  DTD		1	3	2	1	1	0	0	0	0	0	0	0	0	0	0
+Dustin Antolin, Tor RP			2	4	3	1	1	0	0	0	0	0	0	0	0	0	0
+Alec Mills, KC SP			3.1	3	5	5	4	0	0	0	0	0	0	0	0	0	0
+Zac Curtis, Ari RP			13.1	13	10	13	10	0	0	0	0	0	0	0	1	0	1
+Tom Gorzelanny, Cle RP			3	4	7	5	4	0	0	0	0	0	0	1	0	0	0
+Kevin Chapman, Hou RP			8	15	8	4	6	0	0	0	0	0	0	0	0	0	0
+Drew Hayes, Cin RP			9.2	15	9	6	8	0	0	0	0	0	0	0	0	0	1
+David Hale, Bal SP			2	4	3	2	1	0	0	0	0	0	0	0	0	0	0
+Abel De Los Santos, Cin RP		5.2	7	7	4	2	1	0	0	0	0	0	0	0	0	0
+J.B. Wendelken, Oak RP  DTD		12.2	18	14	9	12	0	0	0	0	0	0	0	0	0	0
+Daniel Stumpf, Phi RP			5	9	6	2	2	1	0	0	0	0	0	0	0	0	0
+Joe Colon, Cle SP, RP			10	12	8	7	10	0	0	0	0	0	0	1	3	0	0
+Chin-Hui Tsao, LAD RP			1.2	1	1	3	0	0	0	0	0	0	0	0	1	0	0
+Matt Albers, CWS RP			51.1	67	36	19	30	0	0	0	0	0	0	2	6	0	4
+Matt Reynolds, SF RP			6	7	5	5	3	0	0	0	0	0	0	0	1	0	0
+Adrian Sampson, Sea SP  DTD		4.2	8	4	1	2	0	0	0	0	0	0	0	1	0	0
+Adam Loewen, Ari RP			6	7	10	6	3	0	0	0	0	0	0	1	0	0	0
+Scott Diamond, Tor SP			1	2	3	2	0	0	0	0	0	0	0	0	0	0	0
+Nick Tepesch, KC RP			4	7	5	0	3	0	0	0	0	0	0	0	1	0	0
+David Goforth, Mil RP			10.2	18	13	4	9	0	0	0	0	0	0	0	0	0	0
+Shawn Morimando, Cle SP			4.2	9	6	5	5	0	0	0	0	0	0	0	0	0	0
+Tyson Ross, SD SP  DTD			5.1	9	7	1	5	0	0	0	0	0	0	0	1	0	0
+Joe Wieland, Sea SP			5	9	6	0	3	0	0	0	0	0	0	0	1	0	0
+Curtis Partch, Pit RP			0.2	2	3	2	0	0	0	0	0	0	0	0	0	0	0
+Dayan Diaz, Cin RP			6.2	10	7	7	3	0	0	0	0	0	0	0	0	0	0
+Jose Berrios, Min SP			58.1	74	52	35	49	1	1	0	0	0	0	3	7	0	0
+Tyler Danish, CWS SP  DTD		1.2	6	2	3	0	0	0	0	0	0	0	0	0	0	0
+Christian Bergman, Col RP		24.2	39	23	6	22	0	0	0	0	0	0	1	3	0	1
+Caleb Cotham, Cin RP			24.1	32	20	12	21	0	0	0	0	0	0	0	3	0	1
+Hyun-Jin Ryu, LAD SP			4.2	8	6	2	4	0	0	0	0	0	0	0	1	0	0
+Chris Heston, SF SP  DTD		5	9	6	6	3	0	0	0	0	0	0	1	1	0	0
+Jorge Rondon, Pit RP			3.2	9	7	1	4	0	0	0	0	0	0	0	0	0	0
+T.J. McFarland, Bal RP			24.2	33	19	10	7	0	0	0	0	0	0	2	2	0	3
+Michael Roth, Tex SP			3.2	10	6	1	3	0	0	0	0	0	0	0	0	0	0
+Ben Rowen, Mil RP			3	10	5	0	2	0	0	0	0	0	0	0	0	0	0
+Joe Mantiply, Det RP			2.2	7	5	2	2	0	0	0	0	0	0	0	0	0	0
+Carson Fulmer, CWS SP, RP		11.2	12	11	7	10	0	0	0	0	0	0	0	2	0	1
+Kris Medlen, KC SP  DTD			24.1	30	21	20	18	1	1	0	0	0	0	1	3	0	0
+Yohan Flande, Col SP, RP		3.2	8	5	3	0	0	0	0	0	0	0	0	0	0	0
+Michael Kirkman, Mil RP			2.1	7	5	1	1	0	0	0	0	0	0	0	0	0	0
+Anthony Ranaudo, CWS SP			31.1	36	33	20	18	0	1	0	0	0	0	1	1	0	0
+Yohander Mendez, Tex RP			3	5	6	2	0	0	0	0	0	0	0	0	0	0	0
+Layne Somsen, LAD RP			2.1	6	5	3	2	0	0	0	0	0	0	0	0	0	0
+Casey Kelly, Atl SP, RP			21.2	30	14	7	7	0	0	0	0	0	0	0	3	0	1
+Dana Eveland, TB RP			23	32	23	19	21	0	0	0	0	0	0	0	1	0	0
+John Danks, CWS SP			22.1	28	18	11	16	0	1	0	0	0	0	0	4	0	0
+Vin Mazzaro, SF RP			1	7	6	1	0	0	0	0	0	0	0	1	0	0	0
+Ariel Pena, Mil SP			1.2	5	5	2	0	0	0	0	0	0	0	0	0	0	0
+Jason Hursh, Atl RP			1.1	4	5	3	1	0	0	0	0	0	0	0	0	0	0
+Sam Freeman, Mil RP			7.2	13	11	9	8	0	0	0	0	0	0	0	0	0	0
+Cody Reed, Cin SP			47.2	67	39	19	43	0	2	0	0	0	0	0	7	0	0
+Cory Luebke, Pit RP			8.2	15	9	11	9	0	0	0	0	0	0	0	1	0	0
+Jon Moscot, Cin SP  DTD			21.1	26	19	10	10	0	0	0	0	0	0	0	3	0	0
+Evan Marshall, Ari RP			15.1	28	15	8	9	0	0	0	0	0	0	0	1	0	0
+Tim Melville, Cin SP			9	16	11	9	8	0	0	0	0	0	0	0	1	0	0
+James Russell, Phi RP			4.1	9	9	5	4	0	0	0	0	0	0	0	0	0	1
+David Huff, LAA RP			5.1	13	7	2	3	0	0	0	0	0	0	0	2	0	0
+Luke Jackson, Tex RP			11.2	22	14	8	3	0	0	0	0	0	0	0	0	0	0
+Taylor Jungmann, Mil SP  DTD		26.2	30	23	17	18	0	0	0	0	0	0	0	5	0	0
+Eric Surkamp, Tex RP, SP		38.2	55	30	21	22	2	1	0	0	0	0	0	5	0	0
+Roenis Elias, Bos SP			7.2	15	11	5	3	0	0	0	0	0	0	0	1	0	0
+Chi Chi Gonzalez, Tex SP		10.1	21	10	9	7	0	0	0	0	0	0	0	2	0	0
+Pat Light, Min RP			16.2	22	21	16	16	0	0	0	0	0	0	0	1	0	1
+Brian Matusz, ChC RP			9	17	14	9	3	0	0	0	0	0	0	0	0	0	0
+Brett Anderson, LAD SP			11.1	25	15	4	5	1	0	0	0	0	0	1	2	0	0
+Kyle Lohse, Tex SP, RP			9.1	15	13	5	3	0	0	0	0	0	0	0	2	0	0
+Brady Rodgers, Hou SP			8.1	15	14	7	3	0	0	0	0	0	0	0	1	0	0
+J.J. Hoover, Cin RP			18.2	29	28	12	15	0	0	0	0	0	0	1	2	1	1
+Erik Johnson, SD SP  DTD		31.1	46	29	11	21	0	0	0	0	0	0	0	6	0	0
+Patrick Schuster, Phi RP		8.2	15	18	10	8	0	0	0	0	0	0	0	1	0	0
+Mike Mayers, StL SP			5.1	16	16	3	2	0	0	0	0	0	0	1	1	0	0
+Dillon Overton, Oak SP			24.1	48	31	7	17	1	1	0	0	0	0	1	3	0	0
+Tim Lincecum, LAA SP			38.1	68	39	23	32	1	1	0	0	0	0	2	6	0	0
+Alfredo Simon, Cin SP  DTD		58.2	89	61	31	39	0	2	0	0	0	0	2	7	0	0

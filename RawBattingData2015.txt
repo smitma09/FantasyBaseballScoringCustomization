@@ -1,0 +1,636 @@
+Josh Donaldson, Tor 3B, DH			184/620	122	41	352	123	73	133	6	0	0
+Bryce Harper, Wsh OF				172/521	118	42	338	99	124	131	6	4	0
+Jose Bautista, Tor OF, DH			136/543	108	40	291	114	110	106	8	2	0
+Paul Goldschmidt, Ari 1B			182/567	103	33	323	110	118	151	21	5	0
+Nolan Arenado, Col 3B				177/616	97	42	354	130	34	110	2	5	0
+Edwin Encarnacion, Tor 1B, DH			146/528	94	39	294	111	77	98	3	2	0
+A.J. Pollock, Ari OF  DTD			192/609	111	20	303	76	53	89	39	7	0
+Anthony Rizzo, ChC 1B				163/586	94	31	300	101	78	105	17	6	0
+Joey Votto, Cin 1B				171/545	95	29	295	80	143	135	11	3	0
+Manny Machado, Bal 3B, SS			181/633	102	35	318	86	70	111	20	8	0
+Mike Trout, LAA OF, DH				172/575	104	41	339	90	92	158	11	7	0
+Yoenis Cespedes, NYM OF				184/633	101	35	343	105	33	141	7	5	0
+David Ortiz, Bos DH				144/528	73	37	292	108	77	95	0	1	0
+Albert Pujols, LAA 1B, DH  DTD			147/602	85	40	289	95	50	72	5	3	0
+Andrew McCutchen, Pit OF			165/566	91	23	276	96	98	133	11	5	0
+Prince Fielder, Tex DH  DTD			187/613	78	23	284	98	64	88	0	0	0
+Chris Davis, Bal 1B, OF, DH			150/573	100	47	322	117	84	208	2	3	0
+Buster Posey, SF C, 1B				177/557	74	19	262	95	56	52	2	0	0
+Eric Hosmer, KC 1B  DTD				178/599	98	18	275	93	61	108	7	3	0
+Mookie Betts, Bos OF  DTD			174/597	92	18	286	77	46	82	21	6	0
+Jose Altuve, Hou 2B, DH				200/638	86	15	293	66	33	67	38	13	0
+Kendrys Morales, KC DH				165/569	81	22	276	106	58	103	0	0	0
+Michael Brantley, Cle OF  DTD			164/529	68	15	254	84	60	51	15	1	0
+Nelson Cruz, Sea OF, DH				178/590	90	44	334	93	59	164	3	2	0
+Matt Carpenter, StL 3B, 1B, 2B			156/574	101	28	290	84	81	151	4	3	0
+Jose Abreu, CWS 1B, DH				178/613	88	30	308	101	39	140	0	0	0
+Carlos Gonzalez, Col OF				150/554	87	40	299	97	46	133	2	0	0
+Adrian Beltre, Tex 3B, DH			163/567	83	18	257	83	41	65	1	0	1
+J.D. Martinez, Det OF				168/596	93	38	319	102	53	178	3	2	0
+Ian Kinsler, Det 2B				185/624	94	11	267	73	43	80	10	6	0
+Lorenzo Cain, KC OF  DTD			169/551	101	16	263	72	37	98	28	6	0
+Adrian Gonzalez, LAD 1B				157/571	76	28	274	90	62	107	0	1	0
+Todd Frazier, CWS 3B				158/619	82	35	308	89	44	137	13	8	0
+Kyle Seager, Sea 3B				166/623	85	26	281	74	54	98	6	6	0
+Ryan Braun, Mil OF				144/506	87	25	252	84	54	115	24	4	0
+Brian Dozier, Min 2B				148/628	101	28	279	77	61	148	12	4	0
+Charlie Blackmon, Col OF			176/614	93	17	276	58	46	112	43	13	0
+Curtis Granderson, NYM OF			150/580	98	26	265	70	91	151	11	6	0
+Shin-Soo Choo, Tex OF				153/555	94	22	257	82	76	147	4	2	1
+Mike Moustakas, KC 3B  DTD			156/549	73	22	258	82	43	76	1	2	0
+Robinson Cano, Sea 2B				179/624	82	21	278	79	43	107	2	6	0
+Alex Rodriguez, NYY DH				131/523	83	33	254	86	84	145	4	0	0
+Carlos Santana, Cle 1B, DH			127/550	72	19	217	85	108	122	11	3	0
+Xander Bogaerts, Bos SS				196/613	84	7	258	81	32	101	10	2	0
+Josh Reddick, LAD OF				143/526	67	20	236	77	49	65	10	2	0
+Matt Kemp, Atl OF				158/596	80	23	264	100	39	147	12	2	1
+Kris Bryant, ChC 3B, OF				154/559	87	26	273	99	77	199	13	4	0
+Adam Lind, Sea 1B, DH				139/502	72	20	231	87	66	100	0	0	0
+Jason Heyward, ChC OF				160/547	79	13	240	60	56	90	23	3	0
+Miguel Cabrera, Det 1B				145/429	64	18	229	76	77	82	1	1	0
+Adam Eaton, CWS OF				175/610	98	14	263	56	58	131	18	8	0
+Dee Gordon, Mia 2B				205/615	88	4	257	46	25	91	58	20	0
+Starling Marte, Pit OF				166/579	84	19	257	81	27	123	30	10	0
+Melky Cabrera, CWS OF				172/629	70	12	248	77	40	88	3	0	0
+Matt Duffy, TB 3B, SS  DTD			169/573	77	12	245	77	30	96	12	0	0
+Brandon Phillips, Cin 2B			173/588	69	12	232	70	27	68	23	3	0
+Justin Upton, Det OF				136/542	85	26	246	81	68	159	19	5	0
+Adam Jones, Bal OF				147/546	74	27	259	82	24	102	3	1	0
+Brett Gardner, NYY OF				148/571	94	16	228	66	68	135	20	5	0
+Trevor Plouffe, Min 3B, 1B  DTD			140/573	74	22	249	86	50	124	2	1	0
+Jason Kipnis, Cle 2B				171/565	86	9	255	52	57	107	12	8	0
+Ben Zobrist, ChC 2B, OF				129/467	76	13	210	56	62	56	3	4	0
+Daniel Murphy, Wsh 2B, 1B, 3B			140/499	56	14	224	73	31	38	2	2	0
+Dexter Fowler, ChC OF				149/596	102	17	245	46	84	154	20	7	0
+Ben Revere, Wsh OF				181/592	84	2	223	45	32	64	31	7	0
+Jay Bruce, NYM OF				131/580	72	26	252	87	58	145	9	5	0
+Nick Markakis, Atl OF				181/612	73	3	230	53	70	83	2	1	0
+Evan Longoria, TB 3B				163/604	74	21	263	73	51	132	3	1	0
+Evan Gattis, Hou DH, C				139/566	66	27	262	88	30	119	0	1	0
+Brian McCann, NYY C, DH				108/465	68	26	203	94	52	97	0	0	0
+DJ LeMahieu, Col 2B				170/564	85	6	219	61	50	107	23	3	0
+Kevin Pillar, Tor OF				163/586	76	12	234	56	28	85	25	4	0
+Mark Teixeira, NYY 1B				100/392	57	31	215	79	59	85	2	0	0
+Logan Forsythe, TB 2B, 1B			152/540	69	17	240	68	55	111	9	4	0
+Gerardo Parra, Col OF, 1B  DTD			159/547	83	14	247	51	28	92	14	4	0
+Yunel Escobar, LAA 3B				168/535	75	9	222	56	45	70	2	2	0
+Elvis Andrus, Tex SS  DTD			154/596	69	7	213	62	46	78	25	9	0
+Yangervis Solarte, SD 3B, 1B, 2B		142/526	63	14	225	63	34	56	1	0	0
+Kole Calhoun, LAA OF  DTD			161/630	78	26	266	83	45	164	4	1	0
+David Peralta, Ari OF  DTD			144/462	61	17	241	78	44	107	9	4	0
+Joe Mauer, Min 1B, DH				157/592	69	10	225	66	67	112	2	1	0
+Brandon Crawford, SF SS				130/507	65	21	234	84	39	119	6	4	0
+Gregory Polanco, Pit OF				152/593	83	9	226	52	55	121	27	10	0
+Neil Walker, NYM 2B  DTD			146/543	69	16	232	71	44	110	4	1	0
+Russell Martin, Tor C				106/441	76	23	202	77	53	106	4	5	0
+Jhonny Peralta, StL SS, 3B			159/579	64	17	238	71	50	111	1	4	0
+Carlos Beltran, Tex OF, DH			132/478	57	19	225	67	45	85	0	0	0
+Ender Inciarte, Atl OF				159/524	73	6	214	45	26	58	21	10	0
+Lucas Duda, NYM 1B				115/471	67	27	229	73	66	138	0	2	0
+Torii Hunter, Min OF				125/521	67	22	213	81	35	105	2	5	0
+Brandon Belt, SF 1B				138/492	73	18	235	68	56	147	9	3	0
+Kolten Wong, StL 2B, OF  DTD			146/557	71	11	215	61	36	95	15	8	0
+Troy Tulowitzki, Tor SS				136/486	77	17	214	70	38	114	1	0	0
+Alexei Ramirez, TB SS				145/583	54	10	208	62	31	68	17	7	0
+Billy Butler, NYY DH, 1B			135/538	63	15	210	65	52	101	0	0	0
+Mitch Moreland, Tex 1B				131/471	51	23	227	85	32	112	1	0	0
+Carlos Correa, Hou SS				108/387	52	22	198	68	40	78	14	4	0
+Freddie Freeman, Atl 1B				115/416	62	18	196	66	56	98	3	1	0
+Stephen Vogt, Oak C, 1B, DH			116/445	58	18	197	71	56	97	0	2	0
+Alcides Escobar, KC SS				157/612	76	3	196	47	26	75	17	5	0
+Aramis Ramirez, Pit 3B				117/475	43	17	201	75	31	68	1	0	0
+Salvador Perez, KC C				138/531	52	21	226	70	13	82	1	0	0
+Erick Aybar, Det SS, 3B				161/597	74	3	202	44	25	73	15	6	0
+Martin Prado, Mia 3B				144/500	52	9	197	63	37	68	1	0	0
+Asdrubal Cabrera, NYM SS  DTD			134/505	66	15	217	58	36	107	6	3	0
+Billy Burns, KC OF				153/520	70	5	204	42	26	81	26	8	0
+Cameron Maybin, Det OF				135/505	65	10	187	59	45	102	23	6	0
+Chase Headley, NYY 3B				150/580	74	11	214	62	51	135	0	2	0
+Andrelton Simmons, LAA SS			142/535	60	4	181	44	39	48	5	3	0
+Justin Turner, LAD 3B				113/385	55	16	189	60	36	71	5	2	0
+Pedro Alvarez, Bal 1B, 3B, DH			106/437	60	27	205	77	48	131	2	0	0
+Jose Reyes, NYM SS, 3B				132/481	57	7	182	53	26	62	24	6	0
+Mark Canha, Oak 1B, OF  DTD			112/441	61	16	188	70	33	96	7	2	0
+Chris Coghlan, ChC OF, 2B, 3B			110/440	64	16	195	41	58	94	11	2	0
+Wilmer Flores, NYM SS, 1B, 2B, 3B  DTD		127/483	55	16	197	59	19	63	0	1	0
+Mark Trumbo, Bal OF, 1B, DH			133/508	62	22	228	64	36	132	0	0	0
+Andre Ethier, LAD OF				116/395	54	14	192	53	43	75	2	3	0
+Starlin Castro, NYY SS, 2B			145/547	52	11	205	69	21	91	5	5	0
+Howie Kendrick, LAD 2B, 1B, 3B, OF		137/464	64	9	190	54	27	82	6	2	0
+Danny Valencia, Oak 3B, 1B, OF			100/345	59	18	179	66	29	80	2	2	0
+Christian Yelich, Mia OF			143/476	63	7	198	44	47	101	16	5	0
+Jimmy Rollins, CWS SS				116/517	71	13	185	41	44	86	12	8	0
+Joe Panik, SF 2B				119/382	59	8	174	37	38	42	3	2	0
+Didi Gregorius, NYY SS				139/525	57	9	194	56	33	85	5	3	0
+Rougned Odor, Tex 2B				111/426	54	16	198	61	23	79	6	7	0
+Luis Valbuena, Hou 3B, 1B  DTD			97/434	62	25	190	56	50	106	1	0	0
+Marlon Byrd, Cle OF  SSPD			125/506	58	23	229	73	29	145	2	1	0
+Delino DeShields, Tex OF			111/425	83	2	159	37	53	101	25	8	0
+Francisco Lindor, Cle SS			122/390	50	12	188	51	27	69	12	2	0
+Kevin Kiermaier, TB OF  DTD			133/505	62	10	212	40	24	95	18	5	0
+Marcus Semien, Oak SS				143/556	65	15	225	45	42	132	11	5	0
+Derek Norris, SD C				129/515	65	14	208	62	35	131	4	1	0
+Khris Davis, Oak OF, DH				97/392	54	27	198	66	44	122	6	2	0
+Brett Lawrie, CWS 3B, 2B			146/562	64	16	229	60	28	144	5	2	0
+Justin Bour, Mia 1B				107/409	42	23	196	73	34	101	0	0	0
+Jung Ho Kang, Pit 3B, SS			121/421	60	15	194	58	28	99	5	4	0
+Joc Pederson, LAD OF				101/480	67	26	200	54	92	170	4	7	0
+Freddy Galvis, Phi SS				147/559	63	7	192	50	30	103	10	1	0
+Logan Morrison, TB 1B, DH  DTD			103/457	47	17	175	54	47	81	8	4	0
+Victor Martinez, Det DH				108/440	39	11	161	64	31	52	0	0	0
+Johnny Giavotella, LAA 2B			123/453	51	4	170	49	32	59	2	1	0
+Hanley Ramirez, Bos OF, 1B, DH			100/401	59	19	171	53	21	71	6	3	0
+Carlos Gomez, Tex OF				111/435	61	12	178	56	31	101	17	9	0
+Ryan Howard, Phi 1B				107/467	53	23	207	77	27	138	0	0	0
+Colby Rasmus, Hou OF  DTD			103/432	67	25	205	61	47	154	2	1	0
+Ryan Zimmerman, Wsh 1B				86/346	43	16	161	73	33	79	1	0	0
+Yadier Molina, StL C				132/488	34	4	171	61	32	59	3	1	0
+Jean Segura, Ari SS, 2B				144/560	57	6	188	50	13	93	25	6	0
+Dustin Pedroia, Bos 2B  DTD			111/381	46	12	168	42	38	51	2	2	0
+Ian Desmond, Tex SS, OF				136/583	69	19	224	62	45	187	13	5	0
+Nick Castellanos, Det 3B			140/549	42	15	230	73	39	152	0	3	0
+A.J. Pierzynski, Atl C  DTD			122/407	38	9	175	49	19	37	0	2	0
+Avisail Garcia, CWS OF, DH			142/553	66	13	202	59	36	141	7	7	0
+Brock Holt, Bos 2B, 3B, OF			127/454	56	2	172	45	46	97	8	1	1
+Eduardo Escobar, Min SS, 3B, OF			107/409	48	12	182	58	28	86	2	3	0
+Francisco Cervelli, Pit C  DTD			133/451	56	7	181	43	46	94	1	1	0
+Giancarlo Stanton, Mia OF			74/279	47	27	169	67	34	95	4	2	0
+George Springer, Hou OF, DH			107/388	59	16	178	41	50	109	16	4	0
+Adeiny Hechavarria, Mia SS			132/470	54	5	176	48	23	78	7	2	0
+J.T. Realmuto, Mia C				114/441	49	10	179	47	19	70	8	4	0
+Jace Peterson, Atl 2B, OF			126/528	55	6	177	52	56	120	12	10	0
+Eddie Rosario, Min OF  DTD			121/453	60	13	208	50	15	118	11	6	0
+Odubel Herrera, Phi OF				147/495	64	8	207	41	28	129	16	8	0
+Maikel Franco, Phi 3B				85/304	45	14	151	50	26	52	1	0	0
+Seth Smith, Sea OF, DH				98/395	54	12	175	42	47	99	0	0	0
+Brad Miller, TB SS, 1B, OF			113/438	44	11	176	46	47	101	13	4	0
+Jacoby Ellsbury, NYY OF				116/452	66	7	156	33	35	86	21	9	0
+David Freese, Pit 3B, 1B  DTD			109/424	53	14	178	56	31	107	1	1	0
+Chris Colabello, Tor 1B, OF			107/333	55	15	173	54	22	96	2	0	0
+Pablo Sandoval, Bos 3B				115/470	43	10	172	47	25	73	0	0	0
+Jonathan Lucroy, Tex C				98/371	51	7	145	43	36	64	1	0	0
+Angel Pagan, SF OF  DTD				134/512	55	3	170	37	32	93	12	4	0
+Austin Jackson, CWS OF  DTD			131/491	56	9	189	48	29	126	17	10	0
+Wilson Ramos, Wsh C  DTD			109/475	41	15	170	68	21	101	0	0	0
+David Murphy, Bos OF, DH			102/361	38	10	152	50	20	49	0	2	0
+Gregor Blanco, SF OF				95/327	59	5	135	26	40	59	13	5	0
+Norichika Aoki, Sea OF				102/355	42	5	135	26	30	25	14	5	0
+Mike Napoli, Cle 1B, DH				91/407	46	18	167	50	57	118	3	3	0
+Yasmani Grandal, LAD C				83/355	43	16	143	47	65	92	0	1	0
+Addison Russell, ChC 2B, SS			115/475	60	13	185	54	42	149	4	3	0
+Brandon Moss, StL OF, 1B			106/469	47	19	191	58	49	148	0	1	0
+Yonder Alonso, Oak 1B				100/354	50	5	135	31	42	48	2	5	0
+Nick Hundley, Col C				110/366	45	10	171	43	21	76	5	6	0
+Billy Hamilton, Cin OF				93/412	56	4	119	28	28	75	57	8	0
+Cesar Hernandez, Phi 2B				110/405	57	1	141	35	40	86	19	5	0
+Chris Young, Bos OF				80/318	53	14	144	42	30	73	3	1	0
+Chris Carter, Mil 1B				78/391	50	24	167	64	57	151	1	2	0
+Stephen Drew, Wsh 2B, 3B, SS			77/383	43	17	146	44	37	71	0	2	0
+Josh Harrison, Pit 3B, 2B, OF			120/418	57	4	163	28	19	71	10	8	0
+Aaron Hicks, NYY OF				90/352	48	11	140	33	34	66	13	3	0
+Alex Gordon, KC OF				96/354	40	13	153	48	49	92	2	5	0
+Jose Iglesias, Det SS				125/416	44	2	154	23	25	44	11	8	0
+Anthony Gose, Det OF				123/485	73	5	178	26	45	145	23	11	0
+Welington Castillo, Ari C			81/342	42	19	155	57	25	92	0	0	0
+Justin Smoak, Tor 1B				67/296	44	18	139	59	29	86	0	0	0
+Ryan Goins, Tor 2B, SS				94/376	52	5	133	45	39	83	2	1	0
+Kurt Suzuki, Min C				104/433	36	5	136	50	29	59	0	0	0
+Randal Grichuk, StL OF				89/323	49	17	177	47	22	110	4	2	0
+C.J. Cron, LAA 1B, DH  DTD			99/378	37	16	166	51	17	82	3	1	0
+Rajai Davis, Cle OF				88/341	55	8	150	30	22	76	18	8	0
+Clint Robinson, Wsh 1B, OF			84/309	44	10	131	34	37	52	0	0	0
+Marcell Ozuna, Mia OF				119/459	47	10	176	44	30	110	2	3	0
+Juan Uribe, Cle 3B				91/360	40	14	150	43	34	80	2	0	0
+Miguel Sano, Min DH, 3B, OF			75/279	46	18	148	52	53	119	1	1	0
+Michael Taylor, Wsh OF				108/472	49	14	169	63	35	158	16	3	0
+Eugenio Suarez, Cin SS, 3B			104/372	42	13	166	48	17	94	4	1	0
+Brandon Guyer, Cle OF, DH			88/332	51	8	137	28	25	61	10	4	0
+Danny Espinosa, Wsh 2B, SS			88/367	59	13	150	37	33	106	5	2	0
+Juan Lagares, NYM OF  DTD			114/441	47	6	158	41	16	87	7	3	0
+Jedd Gyorko, StL 2B, 1B, 3B, SS			104/421	34	16	167	57	27	107	0	1	0
+Nick Ahmed, Ari SS  DTD				95/421	49	9	151	34	29	81	4	5	0
+Miguel Montero, ChC C				86/347	36	15	142	53	49	103	1	1	0
+Jose Ramirez, Cle SS, 2B, 3B, OF		69/315	50	6	107	27	32	39	10	4	0
+Jayson Werth, Wsh OF				73/331	51	12	127	42	38	84	0	1	0
+Ben Paulsen, Col 1B, OF				90/325	42	11	150	49	23	92	1	2	0
+Alejandro De Aza, NYM OF			85/325	51	7	137	35	31	84	7	5	0
+Kyle Schwarber, ChC OF, C			57/232	52	16	113	43	36	77	3	3	0
+Chase Utley, LAD 2B				79/373	37	8	128	39	32	64	4	0	0
+Michael Cuddyer, NYM OF				98/379	44	10	148	41	24	88	2	0	0
+Chris Owings, Ari 2B, SS, OF			117/515	59	4	166	43	26	144	16	4	0
+Caleb Joseph, Bal C				75/320	38	11	126	49	27	72	0	0	0
+Marwin Gonzalez, Hou 1B, 2B, 3B, SS, OF		96/344	44	12	152	34	16	74	4	5	0
+Eric Sogard, Oak 2B  DTD			92/372	40	1	113	37	23	50	6	1	0
+Denard Span, SF OF				74/246	38	5	106	22	25	26	11	0	0
+Kelly Johnson, NYM OF, 1B, 2B, 3B		82/310	38	14	135	47	23	81	2	1	0
+Steven Souza Jr., TB OF  DTD			84/373	59	16	149	40	46	144	12	6	0
+Yasmany Tomas, Ari OF, 3B			111/406	40	9	163	48	17	110	5	2	0
+Omar Infante, KC 2B				97/440	39	2	140	44	9	69	2	2	0
+Lonnie Chisenhall, Cle OF, 3B			82/333	38	7	124	44	23	69	4	1	0
+Cody Asche, Phi OF, 3B				104/425	41	12	168	39	26	111	1	2	0
+James Loney, NYM 1B				101/361	25	4	129	32	23	34	2	4	0
+Alex Rios, KC OF				98/385	40	4	136	32	15	67	9	0	0
+Steve Pearce, Bal OF, 1B, 2B, DH  DTD		64/294	42	15	124	40	23	69	1	1	0
+Jackie Bradley Jr., Bos OF			55/221	43	10	110	43	27	69	3	0	0
+Mark Reynolds, Col 1B, 3B  DTD			88/382	35	13	152	48	44	121	2	3	0
+Travis d'Arnaud, NYM C				64/239	31	12	116	41	23	49	0	0	0
+Aaron Hill, Bos 2B, 3B				72/313	32	6	108	39	31	54	7	2	0
+Ichiro Suzuki, Mia OF				91/398	45	1	111	21	31	51	11	5	0
+Devon Travis, Tor 2B  DTD			66/217	38	8	108	35	18	43	3	1	0
+Jeff Francoeur, Mia OF				84/326	34	13	141	45	13	77	0	2	0
+Scooter Gennett, Mil 2B				99/375	42	6	143	29	12	68	1	3	0
+Ruben Tejada, SF SS, 3B				94/360	36	3	126	28	38	70	2	1	0
+Jimmy Paredes, Phi DH, OF			100/363	46	10	151	42	19	111	4	4	0
+Adam LaRoche, CWS 1B, DH			89/429	41	12	146	44	49	133	0	0	0
+Will Venable, LAD OF				85/349	40	6	122	33	37	94	16	1	0
+James McCann, Det C				106/401	32	7	155	41	16	90	0	1	0
+Jonathan Schoop, Bal 2B				85/305	34	15	147	39	9	79	2	0	0
+Jorge Soler, ChC OF				96/366	39	10	146	47	32	121	3	1	0
+Yasiel Puig, LAD OF				72/282	30	11	123	38	26	66	3	3	0
+J.J. Hardy, Bal SS				90/411	45	8	128	37	20	88	0	0	0
+Jordy Mercer, Pit SS  DTD			96/394	34	3	126	34	27	73	3	2	0
+Jake Lamb, Ari 3B				92/350	38	6	135	34	36	97	3	2	0
+Preston Tucker, Hou OF, DH  DTD			73/300	35	13	131	33	20	68	0	2	0
+Stephen Piscotty, StL OF			71/233	29	7	115	39	20	56	2	1	0
+Jake Marisnick, Hou OF				80/339	46	9	130	36	18	105	24	9	0
+Anthony Rendon, Wsh 2B, 3B			82/311	43	5	113	25	36	70	1	2	0
+Andres Blanco, Phi 3B, 1B, 2B, SS		68/233	32	7	117	25	21	44	1	1	0
+Jed Lowrie, Oak 3B, 2B  DTD			51/230	35	9	92	30	28	43	1	0	0
+Yan Gomes, Cle C				84/363	38	12	142	45	13	104	0	0	0
+Hunter Pence, SF OF				57/207	30	9	99	40	16	48	4	1	0
+Wil Myers, SD OF, 1B				57/225	40	8	96	29	27	55	5	2	0
+Matt Holliday, StL OF, 1B			64/229	24	4	94	35	39	49	2	1	0
+Blake Swihart, Bos C, OF			79/288	47	5	113	31	18	77	4	2	0
+Michael Bourn, Bal OF				101/425	39	0	120	30	46	107	17	7	0
+Carlos Sanchez, CWS 2B				87/389	40	5	127	31	19	81	2	2	0
+Travis Shaw, Bos 1B, 3B				62/226	31	13	111	36	18	57	0	1	0
+Robinson Chirinos, Tex C			54/233	33	10	102	34	28	62	0	0	0
+Darin Ruf, Phi 1B, OF				63/268	30	12	111	39	21	69	1	0	0
+Cory Spangenberg, SD 2B				82/303	38	4	121	21	28	75	9	4	0
+Corey Dickerson, TB OF, DH			68/224	30	10	120	31	10	56	0	1	0
+Derek Dietrich, Mia OF, 1B, 2B, 3B		64/250	38	10	114	24	23	65	0	2	0
+Dustin Ackley, NYY OF, 1B  DTD			55/238	28	10	102	30	18	45	2	2	0
+Abraham Almonte, Cle OF				58/232	36	5	95	24	21	52	7	1	0
+Franklin Gutierrez, Sea OF, DH			50/171	27	15	106	35	14	54	0	0	0
+Zack Cozart, Cin SS				50/194	28	9	89	28	14	29	3	3	0
+Brayan Pena, StL C				91/333	17	0	108	18	29	34	2	0	0
+Mike Aviles, Det OF, 2B, 3B, SS			67/290	37	5	92	17	20	38	3	1	0
+Josh Phegley, Oak C  DTD			56/225	27	9	101	34	14	51	0	0	0
+Alexi Amarista, SD SS, 2B, OF			66/324	28	3	93	30	24	55	5	1	0
+Rusney Castillo, Bos OF				69/273	35	5	98	29	13	54	4	5	0
+David DeJesus, LAA OF, DH			67/288	27	5	95	30	21	52	3	2	0
+Sam Fuld, Oak OF  DTD				57/290	34	2	85	22	30	55	9	3	0
+Grady Sizemore, TB OF				69/273	24	6	104	33	20	60	3	3	0
+Ryan Raburn, Col DH, OF				52/173	22	8	94	29	23	44	0	0	0
+Jarrod Dyson, KC OF				50/200	31	2	76	18	14	37	26	3	0
+Michael Conforto, NYM OF			47/174	30	9	88	26	17	39	0	1	0
+Paulo Orlando, KC OF				60/241	31	7	107	27	5	53	3	3	0
+Jason Castro, Hou C				71/337	38	11	123	31	33	115	0	0	0
+Elian Herrera, LAD 3B, 2B			62/256	29	7	101	33	18	72	3	1	0
+Chris Iannetta, Sea C				51/272	28	10	91	34	41	83	0	1	0
+John Jaso, Pit DH, 1B				53/185	23	5	85	22	28	39	1	2	0
+Ryan Flaherty, Bal 2B, 3B, SS			54/267	34	9	95	31	26	81	0	0	0
+Alex Guerrero, LAD OF, 3B			51/219	25	11	95	36	7	57	1	0	0
+Matt Wieters, Bal C  DTD			69/258	24	8	109	25	21	67	0	0	0
+Hank Conger, TB C				46/201	25	11	90	33	23	63	0	1	0
+Ketel Marte, Sea SS				62/219	25	2	88	17	24	43	8	4	0
+A.J. Ellis, Phi C				43/181	24	7	73	21	32	38	0	0	0
+Greg Bird, NYY 1B				41/157	26	11	83	31	19	53	0	0	0
+Joey Butler, Cle OF, DH				71/257	30	8	107	30	16	82	5	2	0
+Adonis Garcia, Atl 3B				53/191	20	10	95	26	5	35	0	0	0
+Carlos Ruiz, LAD C				60/284	23	2	81	22	28	43	1	1	0
+Eduardo Nunez, SF SS, 3B  DTD			53/188	23	4	81	20	12	29	8	4	0
+Enrique Hernandez, LAD 2B, OF			62/202	24	7	99	22	11	46	0	2	0
+Cameron Rupp, Phi C				63/270	24	9	101	28	24	71	0	1	0
+Wilin Rosario, Col 1B				62/231	22	6	96	29	8	56	2	1	0
+Tyler Saladino, CWS 3B, 2B, SS			53/236	33	4	79	20	12	51	8	2	0
+Tim Beckham, TB 2B, SS				45/203	24	9	87	37	13	69	3	1	0
+Tyler Flowers, Atl C				79/331	21	9	118	39	21	104	0	1	0
+Carlos Perez, LAA C				65/260	20	4	90	21	19	49	2	0	0
+Leonys Martin, Sea OF				63/288	26	5	90	25	16	69	14	5	0
+Travis Snider, KC OF				55/237	24	4	83	28	26	66	1	0	0
+Tommy Pham, StL OF				41/153	28	5	73	18	19	41	2	0	0
+Will Middlebrooks, Mil 3B			54/255	23	9	92	29	11	60	2	1	0
+Scott Van Slyke, LAD OF, 1B  DTD		53/222	19	6	85	30	23	62	3	1	0
+Skip Schumaker, SD OF				59/244	23	1	82	21	23	51	2	2	0
+Tucker Barnhart, Cin C				61/242	23	3	79	18	25	45	0	1	0
+Roberto Perez, Cle C				42/184	30	7	74	21	33	64	0	0	0
+Aaron Altherr, Phi OF				33/137	25	5	67	22	16	41	6	2	0
+Justin Morneau, CWS 1B, DH			52/168	19	3	77	15	13	25	0	0	0
+Jarrod Saltalamacchia, Det C, 1B		45/200	26	9	87	24	23	69	0	0	0
+Jake Smolinski, Oak OF				32/166	24	6	61	26	19	39	1	1	0
+Giovanny Urshela, Cle 3B			60/267	25	6	88	21	18	58	0	1	0
+Tyler Collins, Det OF				51/192	18	4	80	25	13	43	2	1	0
+David Wright, NYM 3B  DTD			44/152	24	5	66	17	22	36	2	1	0
+Brandon Barnes, Col OF				64/255	30	2	87	17	21	67	4	2	0
+Melvin Upton Jr., Tor OF			53/205	23	5	88	17	21	62	9	3	0
+Ike Davis, NYY 1B				49/214	19	3	75	20	23	44	0	0	0
+Eric Campbell, NYM 3B, 1B			34/173	28	3	51	19	26	37	5	3	0
+Shane Robinson, LAA OF				45/180	28	0	58	16	12	29	6	1	0
+Domonic Brown, Tor OF				43/189	19	5	66	25	14	36	3	1	0
+Kelby Tomlinson, SF 2B				54/178	23	2	72	20	14	40	5	4	0
+Jason Bourgeois, Ari OF				47/196	28	3	65	14	14	33	3	1	0
+Gordon Beckham, SF 3B, 2B, SS			44/211	24	6	70	20	19	43	0	1	0
+Jonny Gomes, KC OF				48/225	29	7	78	26	31	81	1	1	0
+Alberto Callaspo, LAD 3B			54/230	20	1	64	15	28	34	0	0	0
+Ezequiel Carrera, Tor OF			47/172	27	3	64	26	11	45	2	1	0
+Nick Swisher, Atl OF, DH			43/219	14	6	70	25	35	54	0	0	0
+Nolan Reimold, Bal OF				42/170	24	6	67	20	23	47	0	0	0
+Justin Maxwell, Mia OF				52/249	26	7	85	26	20	76	2	1	0
+Dioner Navarro, Tor C				42/171	17	5	64	20	17	29	0	0	0
+Cliff Pennington, LAA 2B, SS			44/210	24	3	59	21	27	49	3	0	0
+Conor Gillaspie, SF 3B				54/237	14	4	85	24	13	47	0	1	0
+Jason Rogers, Pit 1B				45/152	22	4	67	16	15	34	0	0	0
+Ryan Hanigan, Bos C				43/174	28	2	57	16	20	39	0	0	0
+Josh Hamilton, Tex OF  DTD			43/170	22	8	75	25	10	52	0	0	0
+Corey Seager, LAD SS				33/98	17	4	55	17	14	19	2	0	0
+Carl Crawford, LAD OF				48/181	19	4	73	16	10	41	10	2	0
+Trayce Thompson, LAD OF  DTD			36/122	17	5	65	16	13	26	1	0	0
+Mikie Mahtook, TB OF				31/105	22	9	65	19	6	31	4	3	0
+Ivan De Jesus, Cin 2B, 1B, 3B, SS		49/201	15	4	75	28	19	55	0	2	0
+Daniel Descalso, Col SS, 1B, 2B			38/185	22	5	60	22	20	45	1	2	0
+Phil Gosselin, Ari 2B, 3B			33/106	19	3	53	15	9	16	2	1	0
+Domingo Santana, Mil OF				38/160	20	8	69	26	20	63	4	1	0
+Cole Gillespie, Mia OF				42/145	17	2	62	16	10	27	4	1	0
+J.B. Shuck, CWS OF, DH				38/143	15	0	50	15	16	16	7	5	0
+Tyler Moore, Atl 1B, OF				38/187	14	6	68	27	11	45	0	0	0
+Geovany Soto, LAA C  DTD			41/187	20	9	76	21	21	63	0	1	0
+Danny Santana, Min SS, OF  DTD			56/261	30	0	76	21	6	68	8	4	0
+Matt Adams, StL 1B				42/175	14	5	66	24	10	41	1	0	0
+Shane Peterson, Mil OF  DTD			52/201	22	2	71	16	20	55	0	1	0
+Chris Denorfia, NYY OF				57/212	18	3	79	18	15	56	0	1	0
+Miguel Rojas, Mia SS, 1B, 2B, 3B		40/142	13	1	52	17	11	16	0	1	0
+Chris Gimenez, Cle C				25/98	19	5	48	14	10	19	2	0	0
+Peter Bourjos, Phi OF				39/195	32	4	65	13	19	59	5	8	0
+Matt Joyce, Pit OF				43/247	17	5	72	21	30	67	0	3	0
+Hernan Perez, Mil 3B, 2B, OF			64/263	14	1	86	21	5	59	5	1	0
+Delmon Young, Bal OF				47/174	20	2	59	16	4	29	0	0	0
+Andrew Romine, Det 3B, 1B, 2B, SS, OF		47/184	25	2	58	15	11	46	10	5	0
+Justin Ruggiano, NYM OF  DTD			31/125	20	6	59	15	14	41	5	2	0
+Jon Jay, SD OF				        44/210	25	1	54	10	19	36	0	2	0
+Michael McKenry, Mil C				26/127	20	4	51	17	22	41	2	2	0
+Clint Barmes, KC SS				48/207	24	3	73	16	10	55	0	1	0
+Casey McGehee, Det 3B, 1B			47/237	14	2	65	20	21	50	1	1	0
+Sean Rodriguez, Pit 1B, 2B, 3B, SS, OF		55/224	25	4	81	17	5	63	2	2	0
+Martin Maldonado, Mil C				48/229	19	4	67	22	23	65	0	1	0
+John Ryan Murphy, Min C				43/155	21	3	63	14	12	43	0	0	0
+Kevin Plawecki, NYM C				51/233	18	3	69	21	17	60	0	0	0
+Shane Victorino, ChC OF				41/178	19	1	52	7	16	32	7	0	0
+Curt Casali, TB C				24/101	13	10	60	18	8	34	0	0	0
+Jonathan Villar, Mil SS, 2B, 3B			33/116	18	2	48	11	10	29	7	2	0
+Mike Zunino, Sea C				61/350	28	11	105	28	21	132	0	1	0
+Alex Avila, CWS C, 1B				34/178	21	4	51	13	40	66	0	1	0
+Brett Wallace, SD 1B, 3B			29/96	14	5	50	16	10	31	0	0	0
+Michael Morse, Pit 1B				53/229	14	5	77	19	23	76	0	0	0
+Chris Johnson, Mia 1B, 3B			62/243	18	3	82	18	10	74	2	1	0
+Steve Clevenger, Sea DH, C			29/101	11	2	43	15	4	13	0	0	0
+Matt den Dekker, Wsh OF				25/99	12	5	48	12	9	20	0	1	0
+Rene Rivera, NYM C				53/298	16	5	82	26	11	86	0	0	0
+Kennys Vargas, Min DH, 1B			42/175	18	5	61	17	9	54	0	0	0
+Chris Stewart, Pit C  DTD			46/159	9	0	54	15	6	29	0	0	0
+Garrett Jones, NYY OF, 1B			31/144	12	5	52	17	8	37	0	0	0
+Jonathan Herrera, ChC 2B			29/126	14	2	42	14	2	23	3	0	0
+Jerry Sands, CWS OF, DH				29/123	11	4	48	19	9	36	0	0	0
+Jake Elmore, Mil 1B, OF				29/141	10	2	40	16	12	25	1	1	0
+Jesus Montero, Tor 1B  SSPD			25/112	11	5	46	19	4	32	0	0	0
+Andrew Susac, Mil C				29/133	14	3	49	14	14	43	0	0	0
+Jose Lobaton, Wsh C				27/136	11	3	40	20	15	40	0	0	0
+Kirk Nieuwenhuis, Mil OF  DTD			25/128	21	4	48	14	10	49	2	2	0
+J.P. Arencibia, Phi C				22/71	9	6	43	17	1	22	0	0	0
+Pedro Ciriaco, Tex 3B				37/142	14	1	50	15	2	38	4	2	0
+Ehire Adrianza, SF 2B, SS			21/113	11	0	30	11	15	20	3	2	0
+Christian Bethancourt, SD C, OF			31/155	16	2	45	12	5	33	1	1	0
+Jarrett Parker, SF OF				17/49	11	6	37	14	5	21	1	1	0
+Dalton Pompey, Tor OF				21/94	17	2	35	6	7	23	5	1	0
+Logan Schafer, Min OF				27/122	17	1	38	6	12	29	1	0	0
+Dan Uggla, Wsh 2B				22/120	12	2	36	16	19	40	0	1	0
+Tuffy Gosewisch, Ari C				27/128	9	1	36	13	8	23	2	1	0
+Rafael Ynoa, Col OF				33/127	14	0	43	9	3	28	1	0	0
+Daniel Nava, KC OF				27/139	13	1	34	10	20	36	1	0	0
+Max Muncy, Oak 1B, 2B, OF			21/102	14	3	40	9	9	31	0	0	0
+Christian Colon, KC SS, 2B, 3B			31/107	8	0	36	6	11	17	3	2	0
+Joey Gallo, Tex OF  DTD				22/108	16	6	45	14	15	57	3	0	0
+Adam Rosales, SD 1B, 2B, 3B, SS			26/114	14	3	39	7	10	30	4	4	0
+Drew Stubbs, Bal OF				24/123	20	5	47	10	14	60	5	1	0
+Desmond Jennings, TB OF  DTD			26/97	9	1	33	7	8	17	5	3	0
+Tommy La Stella, ChC 2B, 3B			18/67	4	1	27	11	5	7	2	0	0
+Daniel Castro, Atl 2B, SS			23/96	14	2	33	5	3	15	0	0	0
+Chris Parmelee, NYY 1B				21/97	11	4	42	9	4	26	0	1	0
+Jefry Marte, LAA 1B, 3B, OF			17/80	9	4	33	11	8	22	0	0	0
+Taylor Featherston, Phi 3B, 2B, SS		25/154	23	2	38	9	7	46	4	2	0
+David Lough, Phi OF				27/134	14	4	42	12	5	36	2	4	0
+Hector Olivera, Atl 3B				20/79	4	2	32	11	5	12	0	0	0
+Eric Young Jr., NYY OF				13/85	16	0	21	5	6	18	6	2	0
+Eury Perez, Hou OFRecent News			32/119	10	0	36	5	7	23	3	1	0
+Kyle Blanks, SF 1B  DTD				21/67	10	3	35	6	4	20	1	0	0
+Darnell Sweeney, Phi OF				15/85	9	3	30	11	13	27	0	2	0
+Coco Crisp, Cle OF, DH				22/126	11	0	28	6	13	25	2	0	0
+Daniel Robertson, Sea OF			21/75	10	0	23	7	2	7	0	0	0
+Tony Cruz, KC C				        29/142	6	2	44	11	6	32	0	0	0
+Greg Garcia, StL SS, 2B, 3B			18/75	7	2	29	4	10	12	0	0	0
+Travis Jankowski, SD OF				19/90	9	2	31	12	4	24	2	1	0
+Dilson Herrera, Cin 2B				19/90	7	3	33	6	11	23	2	0	0
+Jordan Pacheco, Cin C				16/66	8	2	22	8	9	14	1	0	0
+Jeff Mathis, Mia C				15/93	9	2	27	12	7	24	0	0	0
+Shawn O'Malley, Sea OF, 2B, SS			11/42	10	1	15	7	12	14	3	0	0
+Bryan Holaday, Bos CRecent News			18/64	3	2	29	13	1	13	0	0	0
+Chris Heisey, Wsh OF				10/55	8	2	18	9	15	17	0	1	0
+Austin Hedges, SD C				23/137	13	3	34	11	8	38	0	0	0
+Jeff Baker, Mia 1B				15/72	11	3	27	8	8	25	0	0	0
+Carlos Peguero, StL OF				14/75	11	4	30	9	13	37	2	0	0
+Jesus Sucre, Sea C				20/127	9	1	29	7	6	21	0	0	0
+John Mayberry Jr., Det OF			18/110	8	3	35	9	9	33	1	0	0
+Todd Cunningham, LAA OF				19/86	13	0	23	4	5	17	2	1	0
+Bobby Wilson, TB C				25/132	8	1	33	14	11	39	0	1	0
+Hector Gomez, Mil 2B				23/127	15	1	41	7	3	40	0	0	0
+Byron Buxton, Min OF				27/129	16	2	42	6	6	44	2	2	0
+Matt Szczur, ChC OF				16/72	5	1	24	8	6	15	2	0	0
+Hanser Alberto, Tex 2B, 3B			22/99	12	0	26	4	2	17	1	0	0
+Carlos Corporan, NYY C				19/107	10	3	32	15	6	40	0	0	0
+Josh Rutledge, Bos 2B, 3B			21/74	11	1	25	10	5	26	0	0	0
+Brendan Ryan, LAA 2B, SS			22/96	10	0	32	8	5	29	0	0	0
+Slade Heathcott, NYY OF				10/25	6	2	18	8	2	5	0	1	0
+Kyle Parker, Col OF				19/106	10	3	33	11	6	37	1	0	0
+Tom Murphy, Col C				9/35	5	3	19	9	4	10	0	0	0
+Adam Duvall, Cin OF				14/64	6	5	31	9	6	26	0	0	0
+Steve Tolleson, Bal 2B				11/41	9	0	18	3	4	9	2	0	0
+Efren Navarro, Sea 1B				21/83	9	0	25	5	5	16	0	2	0
+Cheslor Cuthbert, KC 3B				10/46	6	1	17	8	4	9	0	0	0
+Dustin Garneau, Col C				11/70	6	2	20	8	6	14	0	0	0
+Chris Herrmann, Ari C  DTD			15/103	13	2	28	10	7	37	0	0	0
+Ryan Lavarnway, Atl C				18/94	6	2	30	6	12	28	0	0	0
+Oswaldo Arcia, SD OF				16/58	6	2	22	8	4	15	0	0	0
+Rob Refsnyder, NYY 2B, 1B, OF			13/43	3	2	22	5	3	7	2	0	0
+Pete Kozma, NYY SS				15/99	15	0	15	2	10	21	3	1	0
+Brandon Drury, Ari 3B, 2B, OF			12/56	3	2	21	8	2	8	0	0	0
+Richie Shaffer, TB 1BRecent News		14/74	11	4	29	6	10	32	0	1	0
+Dixon Machado, Det SS				16/68	6	0	19	5	7	14	1	0	0
+Ryan Rua, Tex OF, 1B				16/83	10	4	33	7	3	32	0	0	0
+Rickie Weeks, Ari OF				14/84	7	2	21	9	9	25	0	0	0
+Travis Ishikawa, CWS 1B				13/63	6	1	19	8	9	20	0	0	0
+Brian Bogusevic, Phi OF				15/58	9	2	24	5	3	21	2	0	0
+Nick Franklin, TB 2B, OF			16/101	11	3	31	7	7	37	1	0	0
+Jose Pirela, SD 2B				17/74	7	1	23	5	2	16	1	0	0
+Micah Johnson, LAD 2B				23/100	10	0	27	4	9	30	3	2	0
+Drew Butera, KC C				21/107	9	1	27	5	6	26	0	1	0
+Jon Singleton, Hou 1B				9/47	6	1	14	6	10	17	1	0	0
+Henry Urrutia, Bal DH				9/34	3	1	13	6	2	3	0	0	0
+Darwin Barney, Tor 2B, 3B, SS			7/27	4	2	14	4	1	2	0	0	0
+Brett Hayes, Ari C				5/32	4	3	14	6	3	7	0	0	0
+Donovan Solano, NYY 3B				17/90	6	0	22	7	1	18	0	0	0
+Collin Cowgill, Cle OF				13/69	10	1	20	2	4	19	2	1	0
+Scott Schebler, Cin OF				9/36	6	3	18	4	3	13	2	1	0
+Everth Cabrera, Bal SS				20/96	7	0	22	4	5	22	2	0	0
+Joey Terdoslavich, Bal 1B			12/56	5	1	21	4	3	14	0	0	0
+Ryan Strausborger, Tex OF			9/45	9	1	12	3	3	11	2	1	0
+David Ross, ChC C				28/159	6	1	40	9	20	61	1	0	0
+Rey Navarro, LAA 2B				8/29	5	1	13	3	0	3	0	0	0
+Javier Baez, ChC 2B, 3B, SS			22/76	4	1	31	4	4	24	1	2	0
+Xavier Scruggs, Mia 1B				11/42	5	0	13	7	0	10	1	0	0
+Paul Janish, Bal SS				10/35	4	0	13	3	0	3	0	0	0
+Jaff Decker, TB OF				6/28	8	0	9	1	7	9	0	0	0
+Juan Perez, ChC OF				11/39	5	0	14	2	1	6	1	0	0
+Ramon Cabrera, Cin C				11/30	4	1	15	3	0	5	0	0	0
+Mike Baxter, Sea OF				14/57	6	0	15	2	7	14	0	0	0
+Hector Sanchez, SD C				10/56	5	1	17	5	2	14	0	0	0
+Luis Sardinas, SD 2B, SS			19/97	8	0	21	4	6	25	0	0	0
+Corey Hart, Pit 1B				12/54	3	2	19	9	1	19	0	0	0
+Mike Olt, SD 3B				        18/94	7	4	30	5	7	35	0	1	0
+Mason Williams, NYY OF				6/21	3	1	12	3	1	3	0	0	0
+Socrates Brito, Ari OF  DTD			10/33	5	0	15	1	1	7	1	0	0
+Joaquin Arias, Ari 3B				12/58	5	1	16	4	0	12	1	0	0
+Junior Lake, Tor OF				16/80	4	1	26	5	4	29	4	0	0
+Tommy Field, Det 2BRecent News			8/41	6	2	15	5	2	16	1	0	0
+Stefen Romero, Sea OF				4/21	6	1	8	3	3	6	0	0	0
+Robbie Grossman, Min OF, DH			7/49	7	1	12	5	5	17	0	0	0
+Cristhian Adames, Col SS, 2B, 3B		13/53	4	0	16	3	3	11	0	1	0
+Sandy Leon, Bos C				21/114	8	0	23	3	7	28	0	1	0
+Kaleb Cowart, LAA 3B, 2B			8/46	8	1	13	4	5	19	1	1	0
+Munenori Kawasaki, ChC 2B			6/28	6	0	8	2	4	6	0	1	0
+Josh Thole, Tor C				10/49	5	0	12	2	3	9	0	0	0
+Deven Marrero, Bos 3B  DTD			12/53	8	1	15	3	3	19	2	1	0
+Austin Barnes, LAD C				6/29	4	0	8	1	6	6	1	0	0
+Jordan Schafer, Min OF				15/69	9	0	18	5	3	23	0	3	0
+Jose Peraza, Cin 2B, SS, OF			4/22	3	0	7	1	2	2	3	0	0
+Trevor Brown, SF C				9/39	1	0	12	5	3	8	1	1	0
+Rob Brantly, Sea C				4/33	3	1	8	6	2	8	0	0	0
+Gregorio Petit, LAA 2B, 3B, SS			7/42	7	0	10	5	3	16	0	0	0
+Johnny Monell, NYM C				8/48	5	0	10	4	4	13	0	0	0
+Jose Tabata, Pit OF				11/38	2	0	11	4	2	7	0	1	0
+Devin Mesoraco, Cin C				8/45	2	0	11	2	5	9	1	0	0
+Max Stassi, Hou C				6/15	4	1	9	2	1	5	0	0	0
+Darrell Ceciliani, Tor OF			14/68	5	1	19	3	4	25	5	1	0
+Trea Turner, Wsh 2B, OF				9/40	5	1	13	1	4	12	2	2	0
+Josh Wilson, Det 2B				12/38	4	0	15	5	0	15	0	0	0
+Kris Negron, ChC SS				13/93	5	0	15	2	9	23	2	0	0
+Craig Gentry, LAA OF				6/50	6	0	10	3	4	15	1	1	0
+Tyler Ladendorf, Oak OF, 2B  DTD		4/17	3	0	6	2	1	2	0	0	0
+Erik Kratz, Pit C				5/26	3	0	7	3	1	5	0	0	0
+Chris Taylor, LAD SS, 3B			16/94	9	0	21	1	6	31	3	2	0
+Grant Green, SF 2B				8/42	6	1	11	3	2	14	0	1	0
+Michael Martinez, Cle OF, 2B			8/30	7	0	10	2	1	12	0	1	0
+Rico Noel, LAD DH				1/2	5	0	1	0	0	0	5	2	0
+Allan Dykstra, TB 1B				4/31	3	1	7	4	6	12	0	0	0
+Peter O'Brien, Ari OF				4/10	1	1	8	3	2	5	0	0	0
+Dariel Alvarez, Bal OF				7/29	3	1	11	1	2	8	0	0	0
+Anthony Recker, Atl C				10/80	6	2	17	5	11	35	1	0	0
+Allen Craig, Bos OF				12/79	6	1	16	3	7	26	0	0	0
+Matt McBride, Oak 1B, C				7/42	5	0	7	0	0	4	0	0	0
+Willie Bloomquist, Sea 2B			11/69	2	0	12	4	2	13	1	1	0
+Jackson Williams, Col C				2/10	1	0	3	1	4	1	1	0	0
+Cody Stanley, StL C  SSPD			4/10	2	0	5	3	0	3	0	0	0
+Tomas Telis, Mia C				6/38	2	0	6	2	1	4	0	0	0
+Wil Nieves, SD C				1/13	1	1	4	4	1	4	0	0	0
+Michael Saunders, Tor OF			6/31	2	0	6	3	5	10	0	0	0
+Marc Krauss, NYM 1B				11/78	3	2	20	8	3	31	0	0	0
+Ramon Flores, Mil OF				7/32	3	0	8	0	0	4	0	0	0
+Cody Ross, Oak OF				2/22	3	0	2	3	3	6	0	0	0
+Jorge Polanco, Min SS				3/10	1	0	3	1	2	1	1	0	0
+Nick Noonan, SD SS				2/22	2	1	6	3	2	8	0	0	0
+Chris Dominguez, Bos 1B				6/23	2	1	12	3	0	12	0	0	0
+Matt Duffy, Tex 1B				3/8	0	0	4	3	1	2	0	0	0
+Emmanuel Burriss, Phi 2B			2/3	2	0	2	0	2	0	0	0	0
+Cole Figueroa, Mia 3B				2/8	2	0	4	0	0	0	0	0	0
+Eric Fryer, Pit C				5/22	2	0	7	2	5	11	0	0	0
+Jett Bandy, LAA C				1/2	1	1	4	1	0	0	0	0	0
+Luke Maile, TB C				6/35	2	0	9	2	0	8	0	0	0
+Brennan Boesch, Bos OF				13/89	4	1	18	5	4	30	1	0	0
+Jhonatan Solano, Wsh C				1/20	1	0	2	2	1	1	0	0	0
+Jamie Romak, Ari OF				5/15	2	0	7	1	1	6	0	0	0
+Ronald Torreyes, NYY 2B, 3B, SS			2/6	1	0	3	1	1	1	0	0	0
+Arismendy Alcantara, Oak 2B  DTD		2/26	5	0	2	1	5	11	1	0	0
+Dan Johnson, StL 1B				3/19	1	0	3	2	2	4	0	0	0
+Mac Williamson, SF OF  DTD			7/32	2	0	9	1	0	8	0	0	0
+Kyle Kubitza, Atl 3B				7/36	6	0	7	1	3	15	0	0	0
+L.J. Hoes, Bal OF				4/15	1	0	4	1	1	3	0	0	0
+Reed Johnson, Wsh OF				5/22	0	0	6	3	0	6	0	0	0
+Doug Bernier, Tex 2B				1/5	1	0	2	2	1	3	0	0	0
+Jonathan Diaz, NYY SS				2/13	1	0	2	2	1	3	0	0	0
+Jemile Weeks, SD 2B				3/9	1	0	3	1	0	2	0	0	0
+Pedro Florimon, Pit SS				2/23	5	0	4	1	2	12	1	0	0
+Tony Sanchez, SF C				3/8	2	0	3	0	1	3	0	0	0
+Ryan Brett, TB 2B  DTDRecent News		2/3	0	0	3	0	1	0	0	0	0
+Bryan Anderson, Oak C				2/5	0	0	2	1	1	1	0	0	0
+Keon Broxton, Mil OF  DTD			0/2	3	0	0	0	0	1	1	1	0
+Matt Hague, Tor 1B				3/12	1	0	4	0	2	4	0	0	0
+Terrance Gore, KC OF				0/3	1	0	0	0	0	1	3	0	0
+Brent Morel, Pit 3BRecent News			2/7	1	0	3	1	0	3	0	0	0
+Jesus Aguilar, Cle 1B				6/19	0	0	7	2	0	7	0	0	0
+Ryan Lollis, SF OF				2/12	0	0	2	0	1	1	1	0	0
+Michael Reed, Mil OF				2/6	2	0	3	0	0	3	0	0	0
+Danny Dorn, Tor OF				5/30	0	0	6	3	2	10	0	0	0
+Pedro Severino, Wsh C				1/4	1	0	2	0	0	1	0	0	0
+Reid Brignac, Atl 3B				1/13	2	0	1	0	3	5	0	0	0
+Taylor Teagarden, ChC C  SSPD			3/15	0	0	3	2	0	4	0	0	0
+Alex Presley, Det OFBreaking News		3/12	1	0	3	1	1	5	0	0	0
+Tyler Holt, Cin OF				3/31	4	0	3	0	3	11	1	0	0
+Danny Muno, NYM 3B				4/27	2	0	5	0	4	11	1	0	0
+Alfredo Marte, Bal OF				2/6	0	0	2	0	1	1	0	0	0
+Carson Blair, Oak C				4/31	3	1	7	3	4	18	0	0	0
+Kevin Frandsen, SF 1B				2/11	1	0	2	0	1	3	0	0	0
+Quintin Berry, LAA OF				0/1	1	0	0	0	0	1	2	1	0
+Daniel Fields, CWS OF				1/3	1	0	2	0	0	2	0	0	0
+Orlando Calixte, KC SS				0/3	1	0	0	0	0	0	0	0	0
+Oscar Hernandez, Ari C				5/31	4	0	6	1	3	15	0	0	0
+Wilmer Difo, Wsh 2B				2/11	1	0	2	0	0	2	0	0	0
+Gorkys Hernandez, SF OF				0/5	0	0	0	0	0	0	1	0	0
+Chase d'Arnaud, Atl SS, 2B, 3B, OF		3/17	2	0	5	0	1	7	0	1	0
+Travis Tartamella, StL C			1/2	0	0	1	0	0	0	0	0	0
+Emilio Bonifacio, Atl 2B, OF			13/78	5	0	15	4	2	27	1	4	0
+Adam Moore, Cle C				1/4	0	0	1	1	0	2	0	0	0
+Ed Easley, Pit C				0/6	0	0	0	1	0	1	0	0	0
+Steven Moya, Det OF				4/22	1	0	6	0	3	10	0	0	0
+Gerald Laird, Ari C				0/2	0	0	0	0	0	0	0	0	0
+Don Kelly, Mia 1B				0/1	0	0	0	0	0	0	0	0	0
+Austin Romine, NYY 1B, C			0/2	0	0	0	0	0	0	0	0	0
+Dean Anna, StL DH				0/1	0	0	0	0	0	0	0	0	0
+Jeff Bianchi, Col 3B				0/2	0	0	0	0	0	0	0	0	0
+Rocky Gale, SD C				1/10	0	0	1	0	0	1	0	0	0
+Christian Walker, Bal 1B			1/9	0	0	1	0	3	4	0	0	0
+Nevin Ashley, NYM C				2/20	2	0	3	1	0	8	0	0	0
+Leury Garcia, CWS OF  DTD			3/14	0	0	3	1	1	7	1	0	0
+Jordany Valdespin, Det OF			0/4	0	0	0	0	0	1	0	0	0
+Gary Sanchez, NYY DH, C				0/2	0	0	0	0	0	1	0	0	0
+Kyle Waldrop, Cin DH				0/1	0	0	0	0	0	1	0	0	0
+Michael Choice, Cle OF				0/1	0	0	0	0	0	1	0	0	0
+Alex Dickerson, SD OF				2/8	0	0	2	0	0	3	0	0	0
+Elias Diaz, Pit DH  DTD				0/2	0	0	0	0	0	1	0	0	0
+Andy Parrino, CWS SS				0/6	1	0	0	0	2	5	0	0	0
+Steve Lombardozzi, CWS DH			0/10	1	0	0	0	1	4	0	0	0
+Jordan Danks, Tex OF				0/4	0	0	0	0	0	2	0	0	0
+Francisco Pena, Bal C				1/7	0	0	1	0	0	3	0	0	0
+Steven Baron, Sea C				0/11	0	0	0	0	0	2	0	0	0
+Max Kepler, Min OF				1/7	0	0	1	0	0	3	0	0	0
+Andrew Lambo, Oak OF				1/25	1	0	2	0	2	8	0	0	0
+Luis Jimenez, Bos 3B				1/16	1	0	1	0	1	6	0	0	0
+Jason Pridie, Oak OF				0/9	0	0	0	0	1	4	0	0	0
+Yadiel Rivera, Mil 2B, 3B			1/14	0	0	1	0	0	4	0	0	0
+Dusty Coleman, KC 3B				0/5	0	0	0	0	0	3	0	0	0
+Juan Centeno, Min C				1/21	0	0	2	0	2	7	0	0	0
+Garin Cecchini, Mil 1B				0/4	0	0	0	0	0	3	0	0	0
+Cody Decker, KC 1B				0/11	0	0	0	1	0	5	0	0	0
+Ryan LaMarre, Bos OF				2/25	2	0	2	0	0	9	0	0	0
+Ryan Jackson, Phi 2B				0/9	0	0	0	0	1	5	0	0	0
+James Jones, Tex OF  DTD			3/29	1	0	4	0	2	13	1	1	0
+Zach Walters, LAD OF				4/30	0	0	4	3	0	15	0	0	0
+John Hicks, Det C				2/32	1	0	3	1	1	18	1	1	0
